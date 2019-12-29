@@ -1,0 +1,1000 @@
+ 1058  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1059  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/prostate-cancer.php'   webuser@54.169.19.194:/tmp
+ 1060  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1061  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/Untitled Folder/contact.php' '/home/deepak/Desktop/Untitled Folder/contactheader.php' '/home/deepak/Desktop/Untitled Folder/mailcontact.php'    webuser@54.169.19.194:/tmp
+ 1062  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1063  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/Untitled Folder/Anupam.png' '/home/deepak/Desktop/Untitled Folder/Arvinder.png' '/home/deepak/Desktop/Untitled Folder/liver-transplantation.php' '/home/deepak/Desktop/Untitled Folder/liver-transplantation-in-india.jpg' '/home/deepak/Desktop/Untitled Folder/Liver-transplant-in-india.jpg' '/home/deepak/Desktop/Untitled Folder/lt-header.php' '/home/deepak/Desktop/Untitled Folder/maillt.php' '/home/deepak/Desktop/Untitled Folder/Mohamed.png' '/home/deepak/Desktop/Untitled Folder/negi.png' '/home/deepak/Desktop/Untitled Folder/rai.png' '/home/deepak/Desktop/Untitled Folder/subhas.jpg'   webuser@54.169.19.194:/tmp
+ 1064  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1065  zip -r /var/www/html/nigeria1.zip /var/www/html/nigeria1/
+ 1066  zip -r /var/www/html/nigeria2.zip /var/www/html/nigeria2
+ 1067  chmod -R 777 /var/www/html/nigeria1.zip 
+ 1068  chmod -R 777 /var/www/html/nigeria2.zip 
+ 1069  scp -i '/home/deepak/Downloads/ME_test.pem' '/var/www/html/nigeria1.zip'   ubuntu@52.74.70.167:/tmp
+ 1070  scp -i '/home/deepak/Downloads/ME_test.pem' '/var/www/html/nigeria2.zip'   ubuntu@52.74.70.167:/tmp
+ 1071  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1072  ssh -i '/home/deepak/Downloads/ME_test.pem'  ubuntu@52.74.70.167
+ 1073  scp -i '/home/deepak/Downloads/ME_test.pem' '/home/deepak/Desktop/mainheader.php'   ubuntu@52.74.70.167:/tmp
+ 1074  ssh -i '/home/deepak/Downloads/ME_test.pem'  ubuntu@52.74.70.167
+ 1075  sudo bash
+ 1076  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1077  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/Untitled Folder/radical-prostatectomy.php' '/home/deepak/Desktop/Untitled Folder/radiotherapy-prostate.php'   webuser@54.169.19.194:/tmp
+ 1078  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1079  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/Untitled Folder/index.php'    webuser@54.169.19.194:/tmp
+ 1080  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1081  cd Desktop/eclipse/
+ 1082  ./eclipse 
+ 1083  sudo bash
+ 1084  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1085  sudo bash
+ 1086  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1087  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/Untitled Folder/hernia-surgery-patient-testimonial.php' '/home/deepak/Desktop/Untitled Folder/hernia-surgery-patient-testimonial-header.php' '/home/deepak/Desktop/Untitled Folder/hip-replacement-surgery-video-testimonial.php' '/home/deepak/Desktop/Untitled Folder/hip-replacement-surgery-video-testimonial-header.php' '/home/deepak/Desktop/Untitled Folder/laparoscopic-hernia-surgery-patient-testimonial.php' '/home/deepak/Desktop/Untitled Folder/laparoscopic-hernia-surgery-patient-testimonial-header.php' '/home/deepak/Desktop/Untitled Folder/laparoscopic-surgery-patient-testimonial.php' '/home/deepak/Desktop/Untitled Folder/laparoscopic-surgery-patient-testimonial-header.php' '/home/deepak/Desktop/Untitled Folder/myomectomy-surgery-patient-testimonial.php' '/home/deepak/Desktop/Untitled Folder/myomectomy-surgery-patient-testimonial-header.php' '/home/deepak/Desktop/Untitled Folder/total-knee-replacement-patient-testimonial.php' '/home/deepak/Desktop/Untitled Folder/total-knee-replacement-patient-testimonial-header.php' '/home/deepak/Desktop/Untitled Folder/vaginoplasty-patient-testimonial.php' '/home/deepak/Desktop/Untitled Folder/vaginoplasty-patient-testimonial-header.php' '/home/deepak/Desktop/Untitled Folder/vaginoplasty-testimonial.php' '/home/deepak/Desktop/Untitled Folder/vaginoplasty-testimonial-header.php'    webuser@54.169.19.194:/tmp
+ 1088  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1089  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/Untitled Folder/orthopaedic.php'     webuser@54.169.19.194:/tmp
+ 1090  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1091  cd Desktop/eclipse/
+ 1092  ./eclipse 
+ 1093  cd Desktop/eclipse/
+ 1094  ./eclipse 
+ 1095  cd Desktop/eclipse/
+ 1096  ./eclipse 
+ 1097  sudo bash
+ 1098  scp -i '/home/deepak/Downloads/webuser.pem'  '/home/deepak/Desktop/prostatetestimonial/radical1.jpg' '/home/deepak/Desktop/prostatetestimonial/radical2.jpg' '/home/deepak/Desktop/prostatetestimonial/radio1.jpg' '/home/deepak/Desktop/prostatetestimonial/radio2.jpg'      webuser@54.169.19.194:/tmp
+ 1099  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1100  sudo bash
+ 1101  scp -i '/home/deepak/Downloads/webuser.pem'  '/home/deepak/Desktop/fwdbanners/breast.jpg' '/home/deepak/Desktop/fwdbanners/breast-big.jpg' '/home/deepak/Desktop/fwdbanners/breast-cancer.php' '/home/deepak/Desktop/fwdbanners/breastHeader.php' '/home/deepak/Desktop/fwdbanners/cervical-big.jpg' '/home/deepak/Desktop/fwdbanners/cervical-cancer.php' '/home/deepak/Desktop/fwdbanners/cervicalHeader.php' '/home/deepak/Desktop/fwdbanners/cervical-small.jpg' '/home/deepak/Desktop/fwdbanners/knee-replacement-big.jpg' '/home/deepak/Desktop/fwdbanners/knee-replacement-small.jpg' '/home/deepak/Desktop/fwdbanners/mailbreast.php' '/home/deepak/Desktop/fwdbanners/mailcervical.php' '/home/deepak/Desktop/fwdbanners/mailtkr.php' '/home/deepak/Desktop/fwdbanners/tkrHeader.php' '/home/deepak/Desktop/fwdbanners/total-knee-replacement.php'     webuser@54.169.19.194:/tmp
+ 1102  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1103  scp -i '/home/deepak/Downloads/webuser.pem'  '/home/deepak/Desktop/fwdbanners/hip-replacement-test.php' '/home/deepak/Desktop/fwdbanners/mailthr.php' '/home/deepak/Desktop/fwdbanners/minimally-invasive-test.php' '/home/deepak/Desktop/fwdbanners/thrHeader.php' '/home/deepak/Desktop/fwdbanners/total-hip-replacement.php'      webuser@54.169.19.194:/tmp
+ 1104  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1105  cd Desktop/eclipse/
+ 1106  ./eclipse 
+ 1107  cd Desktop/eclipse/
+ 1108  ./eclipse 
+ 1109  sudo bash
+ 1110  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1111  sudo bash
+ 1112  exit
+ 1113  cd Desktop/eclipse/
+ 1114  ./eclipse 
+ 1115  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1116  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/total-knee-replacement.php'   webuser@54.169.19.194:/tmp
+ 1117  cd /tmp/
+ 1118  exit
+ 1119  scp -i '/home/deepak/Downloads/webuser.pem'  '/home/deepak/Desktop/knee-replacement-small.jpg'     webuser@54.169.19.194:/tmp
+ 1120  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1121  scp -i '/home/deepak/Downloads/webuser.pem'  '/home/deepak/Desktop/omolola-knee-test.php' '/home/deepak/Desktop/contactheader.php'     webuser@54.169.19.194:/tmp
+ 1122  cd /tmp/
+ 1123  cd
+ 1124  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1125  scp -i '/home/deepak/Downloads/webuser.pem'  '/home/deepak/Desktop/knee-replacement-test.php'     webuser@54.169.19.194:/tmp
+ 1126  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1127  scp -i '/home/deepak/Downloads/webuser.pem'  '/home/deepak/Desktop/knee-replacement-test.php' '/home/deepak/Desktop/kneetest1.jpg' '/home/deepak/Desktop/kneetest2.jpg'    webuser@54.169.19.194:/tmp
+ 1128  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1129  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/retestimonialsphoto/Aashish-arbat.jpg' '/home/deepak/Desktop/retestimonialsphoto/ANIL-ARORA.png' '/home/deepak/Desktop/retestimonialsphoto/Dr.Sunil-Shahane--Nanavati.png' '/home/deepak/Desktop/retestimonialsphoto/shailendra-patil.png'    webuser@54.169.19.194:/tmp
+ 1130  sudo bash
+ 1131  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1132  exit
+ 1133  sudo bash
+ 1134  exit
+ 1135  cd Desktop/eclipse/
+ 1136  ./eclipse 
+ 1137  sudo bash
+ 1138  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1139  sudo bash
+ 1140  sudo bash
+ 1141  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1142  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/retestimonialsphoto/contact.php' '/home/deepak/Desktop/retestimonialsphoto/happy-patients.php' '/home/deepak/Desktop/retestimonialsphoto/hernia-surgery-patient-testimonial.php' '/home/deepak/Desktop/retestimonialsphoto/hip-replacement-surgery-video-testimonial.php' '/home/deepak/Desktop/retestimonialsphoto/laparoscopic-hernia-surgery-patient-testimonial.php' '/home/deepak/Desktop/retestimonialsphoto/laparoscopic-hernia-surgery-patient-testimonial-header.php' '/home/deepak/Desktop/retestimonialsphoto/laparoscopic-surgery-patient-testimonial.php' '/home/deepak/Desktop/retestimonialsphoto/myomectomy-surgery-patient-testimonial.php' '/home/deepak/Desktop/retestimonialsphoto/privacy-policy.php' '/home/deepak/Desktop/retestimonialsphoto/terms-of-use.php' '/home/deepak/Desktop/retestimonialsphoto/total-knee-replacement-patient-testimonial.php' '/home/deepak/Desktop/retestimonialsphoto/vaginoplasty-patient-testimonial.php' '/home/deepak/Desktop/retestimonialsphoto/vaginoplasty-testimonial.php'    webuser@54.169.19.194:/tmp
+ 1143  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1144  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/mailcontact.php' '/home/deepak/Desktop/contactheader.php'   webuser@54.169.19.194:/tmp
+ 1145  cd /tmp/
+ 1146  cd
+ 1147  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1148  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/mailcontact.php' '/home/deepak/Desktop/contactheader.php'   webuser@54.169.19.194:/tmp
+ 1149  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1150  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/mailhappy.php' '/home/deepak/Desktop/happypheader.php'   webuser@54.169.19.194:/tmp
+ 1151  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1152  cd Desktop/eclipse/
+ 1153  ./eclipse 
+ 1154  cd Desktop/eclipse/
+ 1155  ./eclipse 
+ 1156  sudo bash
+ 1157  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1158  sudo bash
+ 1159  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/sitemap.xml'    webuser@54.169.19.194:/tmp
+ 1160  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1161  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/sitemap.xml'    webuser@54.169.19.194:/tmp
+ 1162  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1163  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/sitemap.xml'    webuser@54.169.19.194:/tmp
+ 1164  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1165  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/sitemap.xml'    webuser@54.169.19.194:/tmp
+ 1166  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1167  scp -i '/home/deepak/Downloads/ME_test.pem' '/home/deepak/Desktop/robots.txt'    ubuntu@52.74.70.167:/tmp
+ 1168  ssh -i '/home/deepak/Downloads/ME_test.pem'  ubuntu@52.74.70.167
+ 1169  sudo bash
+ 1170  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1171  scp -i '/home/deepak/Downloads/ME_test.pem' '/home/deepak/Desktop/omolola-knee-test.php' '/home/deepak/Desktop/knee-replacement-test.php'     ubuntu@52.74.70.167:/tmp
+ 1172  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1173  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/omolola-knee-test.php' '/home/deepak/Desktop/knee-replacement-test.php'     webuser@54.169.19.194:/tmp
+ 1174  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1175  sudo bash
+ 1176  ssh -i '/home/deepak/Downloads/ME_test.pem'  ubuntu@52.74.70.167
+ 1177  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1178  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/Hip-small-banner.jpg' '/home/deepak/Desktop/hip-replacement.jpg'     webuser@54.169.19.194:/tmp
+ 1179  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1180  sudo bash
+ 1181  sudo bash
+ 1182  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/laparoscopic-surgery-patient-testimonial.php'     webuser@54.169.19.194:/tmp
+ 1183  cd /tmp/
+ 1184  cd
+ 1185  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1186  scp -i '/home/deepak/Downloads/webuser.pem'  '/home/deepak/Desktop/vaginoplasty-testimonial.php' '/home/deepak/Desktop/vaginoplasty-patient-testimonial.php' '/home/deepak/Desktop/laparoscopic-hernia-surgery-patient-testimonial.php' '/home/deepak/Desktop/hernia-surgery-patient-testimonial.php' '/home/deepak/Desktop/hip-replacement-surgery-video-testimonial.php' '/home/deepak/Desktop/total-knee-replacement-patient-testimonial.php' '/home/deepak/Desktop/myomectomy-surgery-patient-testimonial.php'    webuser@54.169.19.194:/tmp
+ 1187  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1188  scp -i '/home/deepak/Downloads/webuser.pem'  '/home/deepak/Desktop/vaginoplasty-testimonial.php' '/home/deepak/Desktop/vaginoplasty-patient-testimonial.php' '/home/deepak/Desktop/laparoscopic-hernia-surgery-patient-testimonial.php' '/home/deepak/Desktop/hernia-surgery-patient-testimonial.php' '/home/deepak/Desktop/hip-replacement-surgery-video-testimonial.php' '/home/deepak/Desktop/total-knee-replacement-patient-testimonial.php' '/home/deepak/Desktop/myomectomy-surgery-patient-testimonial.php'    webuser@54.169.19.194:/tmp
+ 1189  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1190  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/vaginoplasty-testimonial.php' '/home/deepak/Desktop/vaginoplasty-patient-testimonial.php' '/home/deepak/Desktop/total-knee-replacement-patient-testimonial.php' '/home/deepak/Desktop/myomectomy-surgery-patient-testimonial.php' '/home/deepak/Desktop/laparoscopic-surgery-patient-testimonial.php' '/home/deepak/Desktop/laparoscopic-hernia-surgery-patient-testimonial.php' '/home/deepak/Desktop/hip-replacement-surgery-video-testimonial.php' '/home/deepak/Desktop/hernia-surgery-patient-testimonial.php'      webuser@54.169.19.194:/tmp
+ 1191  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1192  ssh -i '/home/deepak/Downloads/ME_test.pem'  ubuntu@52.74.70.167
+ 1193  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1194  sudo bash
+ 1195  ssh -i '/home/deepak/Downloads/ME_test.pem'  ubuntu@52.74.70.167
+ 1196  cd Desktop/eclipse/
+ 1197  ./eclipse 
+ 1198  cd Desktop/eclipse/
+ 1199  ./eclipse 
+ 1200  cd Desktop/eclipse/
+ 1201  ./eclipse 
+ 1202  sudo bash
+ 1203  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1204  sudo bash
+ 1205  ifconfig
+ 1206  ssh -i '/home/deepak/Downloads/ME_test.pem'  ubuntu@52.74.70.167
+ 1207  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1208  ssh -i '/home/deepak/Downloads/ME_test.pem'  ubuntu@52.74.70.167
+ 1209  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1210  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1211  cd Desktop/eclipse/
+ 1212  ./eclipse 
+ 1213  cd Desktop/eclipse/
+ 1214  ./eclipse 
+ 1215  sudo bash
+ 1216  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1217  sudo bash
+ 1218  ifconfig
+ 1219  exit
+ 1220  sudo bash
+ 1221  zip -r /var/www/html/mehome.zip /var/www/html/mehome/
+ 1222  sudo bash
+ 1223  scp -i '/home/deepak/Downloads/webuser.pem' '/var/www/html/mehome.zip'  webuser@54.169.19.194:/tmp
+ 1224  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1225  sudo bash
+ 1226  welcome
+ 1227  exit
+ 1228  rm -r /var/www/mehome.zip 
+ 1229  rm -r /var/www/html/mehome.zip
+ 1230  rm -r /var/www/html/mehome/
+ 1231  sudo bash
+ 1232  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1233  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/mehome.zip /var/www/mehome.zzip
+ 1234  chmod -R /var/www/mehome.zzip
+ 1235  chmod -R 777 /var/www/mehome.zzip
+ 1236  rm -r /var/www/mehome.zzip 
+ 1237  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/mehome.zip /var/www/mehome.zip
+ 1238  chmod -R 777 /var/www/mehome.zip 
+ 1239  unzip /var/www/mehome.zip 
+ 1240  rm -r /var/www/mehome.zip 
+ 1241  ifconfig
+ 1242  zip -r /var/www/html/mehome.zip /var/www/html/mehome
+ 1243  sudo bash
+ 1244  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1245  chmod -R 777 /var/www/html/mehome.zip 
+ 1246  scp -i '/home/deepak/Downloads/webuser.pem' '/var/www/html/mehome.zip'  webuser@54.169.19.194:/tmp
+ 1247  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/mehome.zip'   webuser@54.169.19.194:/tmp
+ 1248  sudo bash
+ 1249  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1250  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/mehome.zip /var/www/mehome.zip
+ 1251  chmod -R 777 /var/www/mehome.zip 
+ 1252  rm -r /var/www/mehome.zip 
+ 1253  ls
+ 1254  unzip '/home/deepak/Desktop/mehome.zip' 
+ 1255  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1256  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1257  sudo bash
+ 1258  tail -f /var/log/apache2/error.log
+ 1259  sudo bash
+ 1260  exit
+ 1261  zip -r /var/www/html/mehome.zip /var/www/html/mehome/
+ 1262  chmod -R 777 /var/www/html/mehome.zip 
+ 1263  sudo bash
+ 1264  scp -i '/home/deepak/Downloads/webuser.pem' '/var/www/html/mehome.zip'  webuser@54.169.19.194:/tmp
+ 1265  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1266  sudo bash
+ 1267  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/sickle.php' '/home/deepak/Desktop/blood-cancer.php' '/home/deepak/Desktop/autism.php'   webuser@54.169.19.194:/tmp
+ 1268  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1269  cd Desktop/eclipse/
+ 1270  ./eclipse 
+ 1271  cd Desktop/eclipse/
+ 1272  ./eclipse 
+ 1273  cd Desktop/eclipse/
+ 1274  ./eclipse 
+ 1275  sudo bash
+ 1276  ifconfig
+ 1277  sudo bash
+ 1278  rm -r /var/www/html/mehome.zip 
+ 1279  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1280  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/mehome.zip /var/www/mehome.zip
+ 1281  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1282  chmod -R 777 /var/www/mehome.zip 
+ 1283  rm -r /var/www/html/mehome/
+ 1284  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1285  exit
+ 1286  sudo bash
+ 1287  exit
+ 1288  sudo bash
+ 1289  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1290  sudo bash
+ 1291  rm -r /var/www/mehome.zip
+ 1292  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/mehome.zip /var/www/mehome.zip
+ 1293  chmod -R 777 /var/www/mehome.zip 
+ 1294  rm -r /var/www/mehome.zip
+ 1295  rm -r /var/www/html/mehome/
+ 1296  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/mehome/nigeria/laparoscopic-surgery-patient-testimonial.php  /var/www/laparoscopic-surgery-patient-testimonial.php
+ 1297  chmod -R 777 /var/www/laparoscopic-surgery-patient-testimonial.php 
+ 1298  zip -r /var/www/html/mehome.zip /var/www/html/mehome/
+ 1299  chmod -R 777 /var/www/html/mehome.zip 
+ 1300  scp -i '/home/deepak/Downloads/webuser.pem' '/var/www/html/mehome.zip'  webuser@54.169.19.194:/tmp
+ 1301  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1302  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1303  sudo bash
+ 1304  '/home/deepak/Desktop/count.exe' 
+ 1305  clear
+ 1306  count.exe '/home/deepak/Desktop/test1.docx' 
+ 1307  '/home/deepak/Desktop/test1.docx'  count.exe 
+ 1308  chmod -R 777 '/home/deepak/Desktop/test1.docx' 
+ 1309  '/home/deepak/Desktop/test1.docx'  count.exe 
+ 1310  '/home/deepak/Desktop/test.docx'  count.exe 
+ 1311  clere
+ 1312  clear
+ 1313  '/home/deepak/Desktop/test.docx'  count.exe 
+ 1314  '/home/deepak/Desktop/test.exe' count.exe
+ 1315  chmod +x '/home/deepak/Desktop/test.exe' 
+ 1316  '/home/deepak/Desktop/test.exe' count.exe
+ 1317  wc -w '/home/deepak/Desktop/w.docx' 
+ 1318  wc  '/home/deepak/Desktop/w.docx' 
+ 1319  cut -c '/home/deepak/Desktop/w.docx' 
+ 1320  cat '/home/deepak/Desktop/w.docx' 
+ 1321  cut -c2 '/home/deepak/Desktop/w.docx' 
+ 1322  cut -c1 '/home/deepak/Desktop/w.docx' 
+ 1323  cut -c1-3 '/home/deepak/Desktop/w.docx' 
+ 1324  cut -c3- '/home/deepak/Desktop/w.docx' 
+ 1325  cat '/home/deepak/Desktop/w.docx' 
+ 1326  head '/home/deepak/Desktop/w.docx' 
+ 1327  head -n 2 '/home/deepak/Desktop/w.docx' 
+ 1328  head -n 2 '/home/deepak/Desktop/message' 
+ 1329  head -n  '/home/deepak/Desktop/message' 
+ 1330  head  '/home/deepak/Desktop/message' 
+ 1331  cat message.txt | tr -c '[:alnum:]' '[\n*]' | uniq -c | sort -nr | head -10
+ 1332  cat '/home/deepak/Desktop/message'  | tr -c '[:alnum:]' '[\n*]' | uniq -c | sort -nr | head -10
+ 1333  sudo bash
+ 1334  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1335  sudo bash
+ 1336  ifconfig
+ 1337  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1338  cd Downloads/android-studio/bin/
+ 1339  ./studio.sh 
+ 1340  ifconfig
+ 1341  cd Desktop/eclipse/
+ 1342  ./eclipse 
+ 1343  cd
+ 1344  ifconfig
+ 1345  cd Desktop/eclipse/
+ 1346  ./eclipse 
+ 1347  cd Desktop/eclipse/
+ 1348  ./eclipse 
+ 1349  cd
+ 1350  cd Downloads/android-studio/bin/
+ 1351  ./studio.sh 
+ 1352  cd Desktop/eclipse/
+ 1353  ./eclipse 
+ 1354  cd Desktop/eclipse/
+ 1355  ./eclipse 
+ 1356  cd Desktop/eclipse/
+ 1357  ./eclipse 
+ 1358  sudo bash
+ 1359  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/tourism.zip /var/www/tourism.zip
+ 1360  sudo bash
+ 1361  rm -r /var/www/mezf311consult.zip 
+ 1362  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1363  rm -r /var/www/tourism.zip 
+ 1364  rm -r /var/www/mezf311.zip 
+ 1365  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/tourism/orthopaedic_camp.php /var/www/mezf310.zip
+ 1366  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/mezf310.zip /var/www/mezf310.zip
+ 1367  sudo bash
+ 1368  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1369  sudo bash
+ 1370  sudo bash
+ 1371  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/mezf311consult.zip /var/www/mezf311consult.zip
+ 1372  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1373  sudo bash
+ 1374  ssh -i '/home/deepak/Downloads/dev_id_rsa'  dev@35.226.164.25
+ 1375  ssh -i '/home/deepak/Downloads/dev_id_rsa.pem'  dev@35.226.164.25
+ 1376  ssh -i '/home/deepak/Downloads/dev_id_rsa'  dev_id_rsa@35.226.164.25
+ 1377  ifconfig
+ 1378  sudo bash
+ 1379  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1380  ifconfig
+ 1381  sudo bash
+ 1382  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1383  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/images/Dr.-Adarsh-Chaudhary.jpg' '/home/deepak/Desktop/images/Dr.-Bharat-V-Shah.jpg' '/home/deepak/Desktop/images/Dr.-Harish-Pathak.jpg' '/home/deepak/Desktop/images/Dr.-Prem-Prakash-Varma.jpg' '/home/deepak/Desktop/images/Dr.-Rajeev-Sood.jpg' '/home/deepak/Desktop/images/Dr.-Ravindra-Vats.jpg' '/home/deepak/Desktop/images/Dr.-Sandeep-Malhotra.jpg' '/home/deepak/Desktop/images/Dr-Anup-Chaudhari.jpg' '/home/deepak/Desktop/images/kidney-transplant.jpg' '/home/deepak/Desktop/images/kidney-transplant.php' '/home/deepak/Desktop/images/kidney-transplant-patient-testimonial.php' '/home/deepak/Desktop/images/kidney-transplant-small.jpg' '/home/deepak/Desktop/images/ktp-01.jpg' '/home/deepak/Desktop/images/ktp-02.jpg' '/home/deepak/Desktop/images/ktpHeader.php' '/home/deepak/Desktop/images/mailktp.php' '/home/deepak/Desktop/images/submitktp.js' '/home/deepak/Desktop/images/Venkateshwar-hospital.jpg'   webuser@54.169.19.194:/tmp
+ 1384  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1385  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/images/main.css'   webuser@54.169.19.194:/tmp
+ 1386  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1387  cd Desktop/eclipse/
+ 1388  ./eclipse 
+ 1389  cd
+ 1390  sudo bash
+ 1391  cd Desktop/
+ 1392  nano text
+ 1393  nano text1 
+ 1394  nano text1
+ 1395  cd Desktop/eclipse/
+ 1396  ./eclipse 
+ 1397  sudo bash
+ 1398  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/mehome.sql'    webuser@54.169.19.194:/tmp
+ 1399  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1400  ifconfig
+ 1401  sudo bash
+ 1402  cd /var/www/html/
+ 1403  rm -r mehome.zip 
+ 1404  zip -r mehome.zip /var/www/html/mehome
+ 1405  chmod -R 777 /var/www/html/mehome.zip 
+ 1406  cd
+ 1407  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/mehome.zip'     webuser@54.169.19.194:/tmp
+ 1408  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1409  cd Desktop/eclipse/
+ 1410  ./eclipse 
+ 1411  sudo bash
+ 1412  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1413  sudo bash
+ 1414  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1415  sudo bash
+ 1416  rm -r /var/www/html/mehome.zip 
+ 1417  zip -r /var/www/html/mehome.zip /var/www/html/mehome/
+ 1418  chmod -R 777 /var/www/html/mehome.zip 
+ 1419  scp -i '/home/deepak/Downloads/webuser.pem' /var/www/html/mehome.zip      webuser@54.169.19.194:/tmp
+ 1420  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1421  cd
+ 1422  sudo bash
+ 1423  sudo bash
+ 1424  cd Downloads/android-studio/bin/
+ 1425  ./studio.sh 
+ 1426  cd Desktop/eclipse/
+ 1427  ./eclipse 
+ 1428  cd Desktop/eclipse/
+ 1429  ./eclipse 
+ 1430  cd Desktop/eclipse/
+ 1431  ./eclipse 
+ 1432  sudo bash
+ 1433  ssh -i '/home/deepak/Downloads/ME_NEW_WEB (1).pem' ubuntu@18.136.133.158
+ 1434  ifconfig
+ 1435  sudo bash
+ 1436  rm -r /var/www/html/mehome4.0.zip 
+ 1437  sudo bash
+ 1438  zip -r /var/www/html/mehome.zip /var/www/html/mehome/
+ 1439  chmod -R 777 /var/www/html/mehome.zip 
+ 1440  scp -i '/home/deepak/Downloads/webuser.pem' /var/www/html/mehome.zip      webuser@54.169.19.194:/tmp
+ 1441  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1442  rm -r /var/www/html/mehome5.0.zip 
+ 1443  exit
+ 1444  sudo bash
+ 1445  zip -r /var/www/html/mehome.zip /var/www/html/mehome/
+ 1446  exit
+ 1447  sudo bash
+ 1448  chmdod -R 777 /var/www/html/mehome.zip 
+ 1449  chmod -R 777 /var/www/html/mehome.zip 
+ 1450  sudo bash
+ 1451  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1452  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/liver-transplant-small01.jpg'      webuser@54.169.19.194:/tmp
+ 1453  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1454  sudo bash
+ 1455  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1456  sudo bash
+ 1457  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/today/Dr.-Jaydeep-H.-Palep.jpg' '/home/deepak/Desktop/today/Dr.-Muffazal-Lakdawala.jpg' '/home/deepak/Desktop/today/Gastric-Sleev .jpg' '/home/deepak/Desktop/today/gastric-sleeve.php' '/home/deepak/Desktop/today/gastric-sleev-small-banner.jpg' '/home/deepak/Desktop/today/gsHeader.php' '/home/deepak/Desktop/today/mailgs.php' '/home/deepak/Desktop/today/submitgs.js' '/home/deepak/Desktop/today/Vigyan-K-Jain.jpg'       webuser@54.169.19.194:/tmp
+ 1458  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1459  sudo bash
+ 1460  chmod -R 777 /var/www/html/NOVELTY/
+ 1461  chmod -R 777 /var/www/html/Noveltyfinal/
+ 1462  sudo bash
+ 1463  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/mehome.zip /var/www/mehome.zip
+ 1464  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/meh
+ 1465  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1466  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/mehome.zip /var/www/mehome.zip
+ 1467  chmod -R 777 /var/www/mehome.zip 
+ 1468  cd Desktop/eclipse/
+ 1469  ./eclipse 
+ 1470  exit
+ 1471  cd
+ 1472  sudo bash
+ 1473  cd /var/www/html/
+ 1474  rm -r mehome
+ 1475  cd
+ 1476  sudo bash
+ 1477  cd Desktop/eclipse/
+ 1478  ./eclipse 
+ 1479  cd
+ 1480  cd Desktop/eclipse/
+ 1481  ./eclipse 
+ 1482  sudo bash
+ 1483  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1484  sudo bash
+ 1485  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/hnreliance.jpg' '/home/deepak/Desktop/dhi.jpg'     webuser@54.169.19.194:/tmp
+ 1486  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1487  sudo bash
+ 1488  tail -f /var/log/apache2/error.log
+ 1489  sudo bash
+ 1490  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1491  sudo bash
+ 1492  sudo bash
+ 1493  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1494  sudo bash
+ 1495  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1496  sudo bash
+ 1497  cd /grep
+ 1498  grep
+ 1499  sudo bash
+ 1500  rm -r /var/www/mehome.zip 
+ 1501  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1502  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/mehome.zip /var/www/mehome.zip
+ 1503  chmod -R 777 /var/www/mehome.zip 
+ 1504  unzip /var/www/mehome.zip 
+ 1505  sudo bash
+ 1506  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1507  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Abhideep-Chaudhary.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Bharat-Shah.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Bhushan-Nariani.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Devesh-Dholakia.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Dharma-Choudhary.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Mihir-Bapat.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Mohan-Menon.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.Nimish-Kulkarni.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Pradeep-Rao.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Prathamesh-Kulkarni.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-(Prof.)-Pradeep-Bhosale.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Rajan-Shah.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Samir-Shah.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Sanjay-Dudhat.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Shreedhar-Archik.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Shweta-Bansal.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Surender-Kumar-Dabas.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Suruchi-Desai.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr.-Vivek-Venkat.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr-Ninad-Katdare.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr-Puneet-Girdhar.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr-Ravi-Mohanka.jpg' '/home/deepak/Desktop/today25092019/doctorimages/Dr-Shrinath-Kshirsagar.jpg' '/home/deepak/Desktop/today25092019/doctorimages/mainfooterProstateCancer.php' '/home/deepak/Desktop/today25092019/doctorimages/prostate-cancer.php'     webuser@54.169.19.194:/tmp
+ 1508  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1509  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/today25092019/doctorimages/bone-marrow-transplantation.php' '/home/deepak/Desktop/today25092019/doctorimages/mainfooterBMT.php'      webuser@54.169.19.194:/tmp
+ 1510  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1511  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/today25092019/doctorimages/nigeria.zip'   webuser@54.169.19.194:/tmp
+ 1512  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1513  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/today25092019/doctorimages/kidney-transplant.php' '/home/deepak/Desktop/today25092019/doctorimages/mainfooterKTP.php' '/home/deepak/Desktop/today25092019/doctorimages/pankaj-maheshwari.jpg' '/home/deepak/Desktop/today25092019/doctorimages/sunil.jpg'    webuser@54.169.19.194:/tmp
+ 1514  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1515  cd Desktop/eclipse/
+ 1516  ./eclipse 
+ 1517  cd Desktop/eclipse/
+ 1518  ./eclipse 
+ 1519  sudo bash
+ 1520  ssh -i '/home/deepak/Downloads/dev_id_rsa' dev@35.226.164.25
+ 1521  sudo bash
+ 1522  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/today25092019/kidney-transplant.php' '/home/deepak/Desktop/today25092019/prostate-cancer.php'     webuser@54.169.19.194:/tmp
+ 1523  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1524  cd Desktop/eclipse/
+ 1525  ./eclipse 
+ 1526  sudo bash
+ 1527  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1528  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/liver-transplantation.php'     webuser@54.169.19.194:/tmp
+ 1529  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1530  sudo bash
+ 1531  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/todayRE/bypass.jpg' '/home/deepak/Desktop/todayRE/Gastric-band.jpg' '/home/deepak/Desktop/todayRE/gastric-band-small.jpg' '/home/deepak/Desktop/todayRE/Gastric-bypass-surgery.jpg' '/home/deepak/Desktop/todayRE/Gastric-bypass-surgery-small.jpg' '/home/deepak/Desktop/todayRE/intra-big.jpg' '/home/deepak/Desktop/todayRE/intra-small.jpg' '/home/deepak/Desktop/todayRE/mini-gastric-bypass.jpg' '/home/deepak/Desktop/todayRE/mini-gastric-bypass-small.jpg' '/home/deepak/Desktop/todayRE/procedure.jpg' '/home/deepak/Desktop/todayRE/Robotic.jpg' '/home/deepak/Desktop/todayRE/treatment.jpg'    webuser@54.169.19.194:/tmp
+ 1532  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1533  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/todayRE/gastric-band.php' '/home/deepak/Desktop/todayRE/gastricBandHeader.php' '/home/deepak/Desktop/todayRE/gastric-bypass-surgery.php' '/home/deepak/Desktop/todayRE/gastricBypassSurgeryHeader.php' '/home/deepak/Desktop/todayRE/mailGastricBand.php' '/home/deepak/Desktop/todayRE/mailGastricBypassSurgery.php' '/home/deepak/Desktop/todayRE/submitGastricBand.js' '/home/deepak/Desktop/todayRE/submitGastricBypassSurgery.js'    webuser@54.169.19.194:/tmp
+ 1534  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1535  sudo bash
+ 1536  tail -f /var/log/apache2/error.log
+ 1537  cd Desktop/eclipse/
+ 1538  ./eclipse 
+ 1539  sudo bash
+ 1540  cd /etc/apache2/sites-available/
+ 1541  ls
+ 1542  nano mylocal.medico.conf 
+ 1543  cd
+ 1544  nano /etc/hosts
+ 1545  cd /etc/apache2/
+ 1546  nano apache2.conf
+ 1547  sudo bash
+ 1548  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1549  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/today/intragastric-balloon.php' '/home/deepak/Desktop/today/intraGastricHeader.php' '/home/deepak/Desktop/today/mailIntraGastric.php' '/home/deepak/Desktop/today/mailMiniGastric.php' '/home/deepak/Desktop/today/mini-gastric-bypass.php' '/home/deepak/Desktop/today/miniGastricHeader.php' '/home/deepak/Desktop/today/submitIntraGastric.js' '/home/deepak/Desktop/today/submitMiniGastric.js'    webuser@54.169.19.194:/tmp
+ 1550  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1551  sudo bash
+ 1552  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1553  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/today/blklogo.png'     webuser@54.169.19.194:/tmp
+ 1554  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1555  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/today/gastric-band.php' '/home/deepak/Desktop/today/gastric-bypass-surgery.php' '/home/deepak/Desktop/today/gastric-sleeve.php' '/home/deepak/Desktop/today/intragastric-balloon.php' '/home/deepak/Desktop/today/mini-gastric-bypass.php' '/home/deepak/Desktop/today/sanjayborude.jpg' '/home/deepak/Desktop/today/Sharad-Sharma.jpg'   webuser@54.169.19.194:/tmp
+ 1556  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1557  cd Desktop/eclipse/
+ 1558  ./eclipse 
+ 1559  sudo bash
+ 1560  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1561  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/mehome.zip /var/www/mehome.zip
+ 1562  sudo bash
+ 1563  unzip /var/www/mehome.zip 
+ 1564  sudo bash
+ 1565  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1566  exit
+ 1567  sudo bash
+ 1568  exit
+ 1569  rm -r /var/www/mehome.zip 
+ 1570  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1571  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/mehome.zip /var/www/mehome.zip
+ 1572  exit
+ 1573  chmod -R 777 /var/www/mehome.zip 
+ 1574  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1575  mv /var/www/mehome.zip /home/deepak/Desktop/
+ 1576  unzip '/home/deepak/Desktop/mehome.zip' 
+ 1577  exit
+ 1578  sudo bash
+ 1579  exit
+ 1580  sudo bash
+ 1581  ssh -i '/home/deepak/Downloads/ME_test.pem'  
+ 1582  ssh -i ubuntu@52.74.70.167
+ 1583  ssh -i '/home/deepak/Downloads/ME_test.pem'   ubuntu@52.74.70.167
+ 1584  rm -r /var/www/html/mehome.zip 
+ 1585  zip -r /var/www/html/mehome.zip /var/www/mehome
+ 1586  zip -r /var/www/html/mehome.zip /var/www/html/mehome
+ 1587  chmod -R 777 /var/www/html/mehome.zip 
+ 1588  scp -i '/home/deepak/Downloads/webuser.pem' '/var/www/html/mehome.zip'    webuser@54.169.19.194:/tmp
+ 1589  ssh -i '/home/deepak/Downloads/ME_test.pem'   ubuntu@52.74.70.167
+ 1590  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1591  ssh -i '/home/deepak/Downloads/ME_test.pem'   ubuntu@52.74.70.167
+ 1592  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1593  ssh -i '/home/deepak/Downloads/ME_test.pem'   ubuntu@52.74.70.167
+ 1594  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1595  sudo bash
+ 1596  service apache2 restart 
+ 1597  sudo service mysql start
+ 1598  mysql -uroot -pghtadmin
+ 1599  ssh -i '/home/deepak/Downloads/ME_test.pem'   ubuntu@52.74.70.167
+ 1600  sudo bash
+ 1601  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1602  zip  -r /var/www/html/mehome.zip /var/www/html/mehome
+ 1603  chmod -R 777 /var/www/html/mehome.zip 
+ 1604  rm -r /var/www/html/mehome/js/
+ 1605  sudo bash
+ 1606  zip -r /var/www/html/mehome
+ 1607  zip -r /var/www/html/mehome.zip /var/www/html/mehome
+ 1608  chmod -R 777 /var/www/html/mehome.zip 
+ 1609  scp -i '/home/deepak/Downloads/webuser.pem' '/var/www/html/mehome.zip'    webuser@54.169.19.194:/tmp
+ 1610  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1611  sudo bash
+ 1612  ssh -i '/home/deepak/Downloads/ubuntu.pem' dev@35.226.164.25
+ 1613  ssh -i '/home/deepak/Downloads/ubuntu.pem' ubuntu@35.226.164.25
+ 1614  ssh -i '/home/deepak/Downloads/ubuntu.pem' dev@35.226.164.25
+ 1615  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1616  cd Desktop/eclipse/
+ 1617  ./eclipse 
+ 1618  sudo bash
+ 1619  ssh -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25
+ 1620  sudo bash
+ 1621  sudo bash
+ 1622  ssh -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25
+ 1623  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1624  sudo bash
+ 1625  ssh -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25
+ 1626  sudo bash
+ 1627  wget https://download.anydesk.com/linux/anydesk_5.1.1-1_amd64.deb
+ 1628  sudo dpkg -i anydesk_5.1.1-1_amd64.de
+ 1629  sudo dpkg -i anydesk_5.1.1-1_amd64.deb
+ 1630  sudo apt-get install -f
+ 1631  ssh -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25
+ 1632  sudo bash
+ 1633  ssh -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25
+ 1634  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1635  ssh -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25
+ 1636  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1637  tail -f /var/log/apache2/error.log
+ 1638  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1639  scp -i '/home/deepak/Downloads/webuser.pem' '/home/deepak/Desktop/mailhome.php'     webuser@54.169.19.194:/tmp
+ 1640  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1641  sudo bash
+ 1642  ssh -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25
+ 1643  cd Desktop/eclipse/
+ 1644  ./eclipse 
+ 1645  cd Desktop/eclipse/
+ 1646  ./eclipse 
+ 1647  sudo bash
+ 1648  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1649  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/mezf310New.sql /var/www/mezf310New.sql
+ 1650  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/medicalTourismNew.sql /var/www/medicalTourismNew.sql
+ 1651  scp -i '/home/deepak/Downloads/webuser.pem' webuser@54.169.19.194:/var/www/medicoNegotiatorNew.sql /var/www/medicoNegotiatorNew.sql
+ 1652  exit
+ 1653  sudo bash
+ 1654  exit
+ 1655  sudo bash
+ 1656  ssh -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25
+ 1657  scp -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25:www/education.sql  /var/www/education.sql
+ 1658  cd Downloads/android-studio/bin/
+ 1659  ./studio.sh 
+ 1660  ssh -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25
+ 1661  scp -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25:www/Version0.0.3.rar  /var/www/Version0.0.3.rar
+ 1662  sudo bash
+ 1663  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1664  zip -r /var/www/html/mehome.zip /var/www/html/mehome
+ 1665  scp -i '/home/deepak/Downloads/webuser.pem' '/var/www/html/mehome.zip'    webuser@54.169.19.194:/tmp
+ 1666  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1667  cd Desktop/eclipse/
+ 1668  ./eclipse 
+ 1669  cd Desktop/eclipse/
+ 1670  ./eclipse 
+ 1671  cd Desktop/eclipse/
+ 1672  ./eclipse 
+ 1673  cd
+ 1674  cd Downloads/jboss/jboss-as-7.1.1.Final/bin/
+ 1675  ./add-user.sh 
+ 1676  cd ..
+ 1677  ccd ..
+ 1678  cd ..
+ 1679  cd jboss-as-7.1.1.Final/
+ 1680  cd bin/
+ 1681  sudo ./add-user.sh 
+ 1682  cd ..
+ 1683  cd standalone/
+ 1684  cd
+ 1685  java -version
+ 1686  cd Downloads/jboss/jboss-as-7.1.1.Final/b
+ 1687  cd Downloads/jboss/jboss-as-7.1.1.Final/bin/
+ 1688  ./add-user.sh
+ 1689  cd
+ 1690  cd Downloads/jboss/
+ 1691  mv jboss-as-7.1.1.Final /usr/local/share/
+ 1692  chmod -R 777 jboss-as-7.1.1.Final/
+ 1693  mv jboss-as-7.1.1.Final /usr/local/share/
+ 1694  cd jboss-as-7.1.1.Final/
+ 1695  cd b
+ 1696  cd bin/
+ 1697  sudo ./add-user.sh
+ 1698  sudo ./standalone.sh 
+ 1699  cd
+ 1700  sudo bash
+ 1701  cd Downloads/jboss/
+ 1702  chmod -R 777 jboss-as-7.1.1.Final/
+ 1703  cd jboss-as-7.1.1.Final/
+ 1704  cd b
+ 1705  cd bin/
+ 1706  cd Desktop/eclipse/
+ 1707  ./eclipse 
+ 1708  cd
+ 1709  sudo apt-get remove openjdk*
+ 1710  sudo apt-get remove --auto-remove openjdk*
+ 1711  sudo apt-get purge openjdk*
+ 1712  sudo apt-get purge --auto-remove openjdk*
+ 1713  java -version
+ 1714  cd Desktop/eclipse/
+ 1715  ./eclipse 
+ 1716  cd Desktop/eclipse/
+ 1717  ./eclipse 
+ 1718  sudo bash
+ 1719  scp -i '/home/deepak/Desktop/dev_id_rsa (1)' '/home/deepak/Desktop/Sign_APK/release/app-release.apk'   dev@35.226.164.25:/tmp
+ 1720  ssh -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25
+ 1721  scp -i '/home/deepak/Desktop/dev_id_rsa (1)' '/home/deepak/Desktop/Sign_APK/release/app-release.apk'   dev@35.226.164.25:/tmp
+ 1722  ssh -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25
+ 1723  sudo bash
+ 1724  ssh -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25
+ 1725  cd Desktop/eclipse/
+ 1726  ./eclipse 
+ 1727  cd Desktop/eclipse/
+ 1728  ./eclipse 
+ 1729  cd Desktop/eclipse/
+ 1730  ./eclipse 
+ 1731  sudo bash
+ 1732  cd /etc/apache2/sites-available/
+ 1733  ls
+ 1734  nano mylocal.medico.conf 
+ 1735  cd
+ 1736  nano /etc/hosts
+ 1737  cd Desktop/eclipse/
+ 1738  ./eclipse 
+ 1739  cd Desktop/eclipse/
+ 1740  ./eclipse 
+ 1741  cd Desktop/eclipse/
+ 1742  ./eclipse 
+ 1743  cd Desktop/eclipse/
+ 1744  ./eclipse 
+ 1745  sudo bash
+ 1746  cd Desktop/eclipse/
+ 1747  ./eclipse 
+ 1748  cd Desktop/eclipse/
+ 1749  ./eclipse 
+ 1750  cd Desktop/eclipse/
+ 1751  ./eclipse 
+ 1752  cd Desktop/eclipse/
+ 1753  ./eclipse 
+ 1754  cd Desktop/eclipse/
+ 1755  ./eclipse 
+ 1756  cd Desktop/eclipse/
+ 1757  ./eclipse 
+ 1758  cd Desktop/eclipse/
+ 1759  ./eclipse 
+ 1760  cd Desktop/eclipse/
+ 1761  ./eclipse 
+ 1762  cd Desktop/eclipse/
+ 1763  ./eclipse 
+ 1764  cd Desktop/eclipse/
+ 1765  ./eclipse 
+ 1766  cd Desktop/eclipse/
+ 1767  ./eclipse 
+ 1768  cd Desktop/eclipse/
+ 1769  ./eclipse 
+ 1770  cd Desktop/eclipse/
+ 1771  ./eclipse 
+ 1772  cd Downloads/android-studio/bin/
+ 1773  ./studio.sh 
+ 1774  cd Desktop/eclipse/
+ 1775  cd
+ 1776  cd Downloads/android-studio/bin/
+ 1777  ./studio.sh 
+ 1778  cd Desktop/eclipse/
+ 1779  ./eclipse 
+ 1780  cd Desktop/eclipse/
+ 1781  ./eclipse 
+ 1782  cd Desktop/eclipse/
+ 1783  ./eclipse 
+ 1784  cd Desktop/eclipse/
+ 1785  ./eclipse 
+ 1786  cd Desktop/eclipse/
+ 1787  ./eclipse 
+ 1788  cd Desktop/eclipse/
+ 1789  ./eclipse 
+ 1790  cd Desktop/eclipse/
+ 1791  ./eclipse 
+ 1792  cd
+ 1793  sudo bash
+ 1794  ssh -i '/home/deepak/Downloads/webuser.pem'  webuser@54.169.19.194
+ 1795  cd Desktop/eclipse/
+ 1796  ./eclipse 
+ 1797  cd Desktop/eclipse/
+ 1798  ./eclipse 
+ 1799  cd Desktop/eclipse/
+ 1800  ./eclipse 
+ 1801  cd Desktop/eclipse/
+ 1802  ./eclipse 
+ 1803  cd Desktop/eclipse/
+ 1804  ./eclipse 
+ 1805  cd Desktop/eclipse/
+ 1806  ./eclipse 
+ 1807  cd Desktop/eclipse/
+ 1808  ./eclipse 
+ 1809  cd Desktop/eclipse/
+ 1810  ./eclipse 
+ 1811  cd Desktop/eclipse/
+ 1812  ./eclipse 
+ 1813  sudo bash
+ 1814  ssh -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25
+ 1815  scp -i '/home/deepak/Desktop/dev_id_rsa (1)' '/home/deepak/Desktop/Sign_APK/release/shikshaN.apk' dev@35.226.164.25:/tmp
+ 1816  ssh -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25
+ 1817  sudo bash
+ 1818  scp -i '/home/deepak/Desktop/dev_id_rsa (1)' '/home/deepak/Desktop/Sign_APK/release/shikshaN.apk' dev@35.226.164.25:/tmp
+ 1819  ssh -i '/home/deepak/Desktop/dev_id_rsa (1)' dev@35.226.164.25
+ 1820  cd Desktop/eclipse/
+ 1821  ./eqq
+ 1822  ./eclipse 
+ 1823  cd Desktop/eclipse/
+ 1824  ./eclipse 
+ 1825  cd Desktop/eclipse/
+ 1826  ./eclipse 
+ 1827  cd Desktop/eclipse/
+ 1828  ./eclipse 
+ 1829  cd Desktop/eclipse/
+ 1830  ./eclipse 
+ 1831  cd Desktop/eclipse/
+ 1832  ./eclipse 
+ 1833  cd Desktop/eclipse/
+ 1834  ./eclipse 
+ 1835  cd Desktop/eclipse/
+ 1836  ./eclipse 
+ 1837  cd Desktop/eclipse/
+ 1838  ./eclipse 
+ 1839  cd Desktop/eclipse/
+ 1840  ./eclipse 
+ 1841  cd Desktop/eclipse/
+ 1842  ./eclipse 
+ 1843  cd Desktop/eclipse/
+ 1844  ./eclipse 
+ 1845  cd Desktop/eclipse/
+ 1846  ./eclipse 
+ 1847  cd Desktop/eclipse/
+ 1848  ./eclipse 
+ 1849  cd Desktop/eclipse/
+ 1850  ./eclipse 
+ 1851  cd Desktop/eclipse/
+ 1852  ./eclipse 
+ 1853  cd
+ 1854  sudo bash
+ 1855  mysql -uroot -proot
+ 1856  cd
+ 1857  sudo bash
+ 1858  cd Desktop/eclipse/
+ 1859  ./eclipse 
+ 1860  cd Desktop/eclipse/
+ 1861  ./eclipse 
+ 1862  cd Desktop/eclipse/
+ 1863  ./eclipse 
+ 1864  cd Desktop/eclipse/
+ 1865  ./eclipse 
+ 1866  cd Desktop/eclipse/
+ 1867  ./eclipse 
+ 1868  cd Desktop/eclipse/
+ 1869  ./eclipse 
+ 1870  cd Desktop/eclipse/
+ 1871  ./eclipse 
+ 1872  cd Desktop/eclipse/
+ 1873  ./eclipse 
+ 1874  cd Desktop/eclipse/
+ 1875  ./eclipse 
+ 1876  cd Desktop/eclipse/
+ 1877  ./eclipse 
+ 1878  cd Desktop/eclipse/
+ 1879  ./e
+ 1880  ./eclipse 
+ 1881  cd Desktop/eclipse/
+ 1882  ./eclipse 
+ 1883  cd Desktop/eclipse/
+ 1884  ./eclipse 
+ 1885  cd Desktop/eclipse/
+ 1886  ./eclipse 
+ 1887  cd Downloads/android-studio/bin/
+ 1888  ./studio.sh 
+ 1889  cd Downloads/android-studio/bin/
+ 1890  ./studio.sh 
+ 1891  cd Downloads/android-studio/bin/
+ 1892  ./studio.sh 
+ 1893  cd Desktop/eclipse/
+ 1894  ./eclipse 
+ 1895  cd Desktop/eclipse/
+ 1896  ./eclipse 
+ 1897  cd
+ 1898  sudo bash
+ 1899  chmod -R 777 '/home/deepak/Androidlocalization/gradle' '/home/deepak/Documents/gradle' '/home/deepak/Multilanguage/gradle' '/home/deepak/MyApplication/gradle' '/home/deepak/Documents/CrimeProject/gradle' '/home/deepak/Documents/CS275-Final-project-master/gradle' '/home/deepak/Documents/MyApplication4/gradle' '/home/deepak/Documents/StyledMap/gradle' '/home/deepak/AndroidStudioProjects/MyApplication/gradle' '/home/deepak/AndroidStudioProjects/MyApplication2/gradle' '/home/deepak/AndroidStudioProjects/Test/gradle' '/home/deepak/Documents/aaa/gradle' '/home/deepak/Documents/accelerator-textchat-android-master/gradle' '/home/deepak/Documents/AndroidCameraApplication/gradle' '/home/deepak/Documents/AndroidGeocodeLocation/gradle' '/home/deepak/Documents/AndroidImageSlider2/gradle' '/home/deepak/Documents/AndroidImageSlider3/gradle' '/home/deepak/Documents/Android-Pagination-with-RecyclerView-0fe1c54189bee46bde3cee91bd6a2be60ea252f8/gradle' '/home/deepak/Documents/android-paypal-integration-example-master/gradle' '/home/deepak/Documents/Android-play-video-on-video-view-master/gradle' '/home/deepak/Documents/AndroidProjecttttt/gradle' '/home/deepak/Documents/android-retrofit-master/gradle' '/home/deepak/Documents/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/gradle' '/home/deepak/Documents/android-user-registration-master/gradle' '/home/deepak/Documents/Android-Week-View-master/gradle' '/home/deepak/Documents/Animated-Gif-master/gradle' '/home/deepak/Documents/AsyncTasksExample/gradle' '/home/deepak/Documents/AutomaticCurver/gradle' '/home/deepak/Documents/Badge/gradle' '/home/deepak/Documents/Basic-Video-Chat/gradle' '/home/deepak/Documents/Blog/gradle' '/home/deepak/Documents/BottomActivity/gradle' '/home/deepak/Documents/Calender/gradle' '/home/deepak/Documents/CircleImageView/gradle' '/home/deepak/Documents/CircleImageView-master/gradle' '/home/deepak/Documents/country-picker-android-master/gradle' '/home/deepak/Documents/CRUD/gradle' '/home/deepak/Documents/CustomGridView/gradle' '/home/deepak/Documents/DataBinding/gradle' '/home/deepak/Documents/DatePicker/gradle' '/home/deepak/Documents/DownloadFetch2/gradle' '/home/deepak/Documents/DownloadMan/gradle' '/home/deepak/Documents/DownloadManager/gradle' '/home/deepak/Documents/DownloadManagers/gradle' '/home/deepak/Documents/DummyIgnore/gradle' '/home/deepak/Documents/FacebookIntegration/gradle' '/home/deepak/Documents/Fetch-2/gradle' '/home/deepak/Documents/Fetch-2.2/gradle' '/home/deepak/Documents/Fetch2copy/gradle' '/home/deepak/Documents/FileSendToServer/gradle' '/home/deepak/Documents/FireBase/gradle' '/home/deepak/Documents/FirebaseRealtime/gradle' '/home/deepak/Documents/GetAllLocation/gradle' '/home/deepak/Documents/GetNumber/gradle' '/home/deepak/Documents/GraphF/gradle' '/home/deepak/Documents/GridTest/gradle' '/home/deepak/Documents/GridViewOpenImage1/gradle' '/home/deepak/Documents/GroomAuto/gradle' '/home/deepak/Documents/GroomAuto_2/gradle' '/home/deepak/Documents/Horizontal-Calendar-master/gradle' '/home/deepak/Documents/ImageDisplayonActivity/gradle' '/home/deepak/Documents/Image_Save2/gradle' '/home/deepak/Documents/Image_save_dispplay/gradle' '/home/deepak/Documents/ImageSliderDemonuts/gradle' '/home/deepak/Documents/ImageText_Share_Demo1/gradle' '/home/deepak/Documents/ImageText_Share_Demo2/gradle' '/home/deepak/Documents/ImageText_Share_Demo3/gradle' '/home/deepak/Documents/ImageToServer/gradle' '/home/deepak/Documents/ImageUpload-AndroidJSon.com/gradle' '/home/deepak/Documents/JavaMail1/gradle' '/home/deepak/Documents/Listview_with_checkbox_demonuts/gradle' '/home/deepak/Documents/LocalBroadcast/gradle' '/home/deepak/Documents/login/gradle' '/home/deepak/Documents/LoginAndLogout/gradle' '/home/deepak/Documents/LoginLogout/gradle' '/home/deepak/Documents/Mail1/gradle' '/home/deepak/Documents/material-calendarview-master/gradle' '/home/deepak/Documents/ME/gradle' '/home/deepak/Documents/MedicoExpertsOld/gradle' '/home/deepak/Documents/Memory/gradle' '/home/deepak/Documents/Multiparty-ConstraintLayout/gradle' '/home/deepak/Documents/MultipleHandler/gradle' '/home/deepak/Documents/MVVM/gradle' '/home/deepak/Documents/MyApplication/gradle' '/home/deepak/Documents/MyApplication2/gradle' '/home/deepak/Documents/MyApplication3/gradle' '/home/deepak/Documents/MyDynamicCalendarExample-master/gradle' '/home/deepak/Documents/myhistoria/gradle' '/home/deepak/Documents/NavigationExam/gradle' '/home/deepak/Documents/Nexmo/gradle' '/home/deepak/Documents/nexmo-java-master/gradle' '/home/deepak/Documents/NotficationBadge/gradle' '/home/deepak/Documents/OneToOneTextChatSample/gradle' '/home/deepak/Documents/OpentokChat/gradle' '/home/deepak/Documents/OpenTokSamples/gradle' '/home/deepak/Documents/Pagination/gradle' '/home/deepak/Documents/Pagination2/gradle' '/home/deepak/Documents/Paypal/gradle' '/home/deepak/Documents/Paypal30102018/gradle' '/home/deepak/Documents/PaypalDemo/gradle' '/home/deepak/Documents/PayPalExample1/gradle' '/home/deepak/Documents/PaypalFromWeb/gradle' '/home/deepak/Documents/PDFDownloadDemo/gradle' '/home/deepak/Documents/PhoneNo/gradle' '/home/deepak/Documents/PRDownloader/gradle' '/home/deepak/Documents/PRDownloaderCopy/gradle' '/home/deepak/Documents/PRDownloader-master/gradle' '/home/deepak/Documents/PushNotification/gradle' '/home/deepak/Documents/QuizApp/gradle' '/home/deepak/Documents/RecyclerView/gradle' '/home/deepak/Documents/Refferal/gradle' '/home/deepak/Documents/RetrofitExample1/gradle' '/home/deepak/Documents/RetrofitExample2/gradle' '/home/deepak/Documents/RetrofitPostRawJSON/gradle' '/home/deepak/Documents/Runpause/gradle' '/home/deepak/Documents/Rural_Empowerment/gradle' '/home/deepak/Documents/sample/gradle' '/home/deepak/Documents/sampleApp/gradle' '/home/deepak/Documents/SampleApp/gradle' '/home/deepak/Documents/SampleAppPaypal/gradle' '/home/deepak/Documents/SampleAppPaypal2/gradle' '/home/deepak/Documents/ServiceExample/gradle' '/home/deepak/Documents/SharedPreferences1/gradle' '/home/deepak/Documents/ShareImages/gradle' '/home/deepak/Documents/Shiksha/gradle' '/home/deepak/Documents/ShikshaNew/gradle' '/home/deepak/Documents/ShowcaseView-master/gradle' '/home/deepak/Documents/Signaling/gradle' '/home/deepak/Documents/Simple-Multiparty/gradle' '/home/deepak/Documents/SlidingImages_Demo/gradle' '/home/deepak/Documents/Slot/gradle' '/home/deepak/Documents/sms/gradle' '/home/deepak/Documents/sms-retriever-api-sample-master/gradle' '/home/deepak/Documents/SqlliteTest/gradle' '/home/deepak/Documents/Test/gradle' '/home/deepak/Documents/TestDownloderManager/gradle' '/home/deepak/Documents/TestPhotoview/gradle' '/home/deepak/Documents/TestVideoUI/gradle' '/home/deepak/Documents/TextChatTest/gradle' '/home/deepak/Documents/TextonImage/gradle' '/home/deepak/Documents/Thumbnails/gradle' '/home/deepak/Documents/Toggle_button/gradle' '/home/deepak/Documents/tus-android-client-master/gradle' '/home/deepak/Documents/VideoCommunication/gradle' '/home/deepak/Documents/VideoListPlayer-master/gradle' '/home/deepak/Documents/VideoStreamTutorial1/gradle' '/home/deepak/Documents/VideoView/gradle' '/home/deepak/Documents/VideoView1/gradle' '/home/deepak/Documents/ViePagerInterPractice/gradle' '/home/deepak/Documents/ViewPagerwithTabLayout-master/gradle' '/home/deepak/Documents/WeightLoss/gradle' '/home/deepak/Documents/Weight LossF/gradle' '/home/deepak/Documents/WelcomeScreen-master/gradle' '/home/deepak/Documents/WordPressInAndroid/gradle' '/home/deepak/Documents/ZohoCrmChat/gradle' '/home/deepak/Documents/zoomage-master/gradle' '/home/deepak/Downloads/android-retrofit-master/gradle' '/home/deepak/Downloads/android-retrofit-master (2)/gradle' '/home/deepak/Downloads/android-studio/gradle' '/home/deepak/Downloads/android-studio1/gradle' '/home/deepak/Downloads/android-studio_2/gradle' '/home/deepak/Downloads/country-picker-android-master/gradle' '/home/deepak/Downloads/DM/gradle' '/home/deepak/Downloads/GetNumber/gradle' '/home/deepak/Downloads/Slot/gradle' '/home/deepak/Downloads/sms-retriever-api-sample-master/gradle' '/home/deepak/Documents/CS275-Final-project-master/MyApplication/gradle' '/home/deepak/Documents/CS275-Final-project-master/StyledMap/gradle' '/home/deepak/Documents/accelerator-sample-apps-android-master/AcceleratorSampleApp/gradle' '/home/deepak/Documents/AndroidDetectInternetConnection/CheckInternet/gradle' '/home/deepak/Documents/AndroidDetectInternetConnection/InternetConnection1/gradle' '/home/deepak/Documents/AndroidProject/DiscreteScrollView-master11/gradle' '/home/deepak/Documents/AndroidProject/DoSms/gradle' '/home/deepak/Documents/AndroidProject/GridwithList_Test/gradle' '/home/deepak/Documents/AndroidProject/Horizontal_Textview/gradle' '/home/deepak/Documents/AndroidProject/ListView_image_text_test/gradle' '/home/deepak/Documents/AndroidProject/ListViewTest/gradle' '/home/deepak/Documents/AndroidProject/List_View_Test/gradle' '/home/deepak/Documents/AndroidProject/Menu/gradle' '/home/deepak/Documents/AndroidProject/MesageNotification/gradle' '/home/deepak/Documents/AndroidProject/MsgPopUp/gradle' '/home/deepak/Documents/AndroidProject/Multipartyvideo/gradle' '/home/deepak/Documents/AndroidProject/MyApplication/gradle' '/home/deepak/Documents/AndroidProject/MyApplication2/gradle' '/home/deepak/Documents/AndroidProject/MyApplication3/gradle' '/home/deepak/Documents/AndroidProject/MyApplication4/gradle' '/home/deepak/Documents/AndroidProject/MyApplication5/gradle' '/home/deepak/Documents/AndroidProject/MyApplication6/gradle' '/home/deepak/Documents/AndroidProject/MyApplication7/gradle' '/home/deepak/Documents/AndroidProject/NavigationBar/gradle' '/home/deepak/Documents/AndroidProject/NewUploadImage/gradle' '/home/deepak/Documents/AndroidProject/Notification/gradle' '/home/deepak/Documents/AndroidProject/OpentokChat/gradle' '/home/deepak/Documents/AndroidProject/OpenTokSamples/gradle' '/home/deepak/Documents/AndroidProject/OpenTokSamples1/gradle' '/home/deepak/Documents/AndroidProject/Pdf/gradle' '/home/deepak/Documents/AndroidProject/PdfByUrl/gradle' '/home/deepak/Documents/AndroidProject/Pdffileview/gradle' '/home/deepak/Documents/AndroidProject/PdfIntent/gradle' '/home/deepak/Documents/AndroidProject/Pdfsmall/gradle' '/home/deepak/Documents/AndroidProject/Picsession/gradle' '/home/deepak/Documents/AndroidProject/Priscription/gradle' '/home/deepak/Documents/AndroidProject/Profile/gradle' '/home/deepak/Documents/AndroidProject/RadioButton/gradle' '/home/deepak/Documents/AndroidProject/RemoveActionbarAndTabremove/gradle' '/home/deepak/Documents/AndroidProject/Sagarsir/gradle' '/home/deepak/Documents/AndroidProject/Sample/gradle' '/home/deepak/Documents/AndroidProject/Samplee2/gradle' '/home/deepak/Documents/AndroidProject/Searchview/gradle' '/home/deepak/Documents/AndroidProject/SharedPreferences1/gradle' '/home/deepak/Documents/AndroidProject/ShowCaseDemo2/gradle' '/home/deepak/Documents/AndroidProject/SmsCall/gradle' '/home/deepak/Documents/AndroidProject/StartActivityforresult/gradle' '/home/deepak/Documents/AndroidProject/StartCons/gradle' '/home/deepak/Documents/AndroidProject/STcamera/gradle' '/home/deepak/Documents/AndroidProject/Substring/gradle' '/home/deepak/Documents/AndroidProject/Tablayout/gradle' '/home/deepak/Documents/AndroidProject/Tablayoutremove/gradle' '/home/deepak/Documents/AndroidProject/Tablayoutsenddata/gradle' '/home/deepak/Documents/AndroidProject/TableRow/gradle' '/home/deepak/Documents/AndroidProject/test/gradle' '/home/deepak/Documents/AndroidProject/TextChart/gradle' '/home/deepak/Documents/AndroidProject/textchat-acc-pack/gradle' '/home/deepak/Documents/AndroidProject/Texttospeech/gradle' '/home/deepak/Documents/AndroidProject/TextView/gradle' '/home/deepak/Documents/AndroidProject/TimeSloat1/gradle' '/home/deepak/Documents/AndroidProject/TimeSlot/gradle' '/home/deepak/Documents/AndroidProject/TokboxChat/gradle' '/home/deepak/Documents/AndroidProjecttttt/AlertDialogDemo/gradle' '/home/deepak/Documents/AndroidProjecttttt/AlertDialogDemo1/gradle' '/home/deepak/Documents/AndroidProjecttttt/Alert_Example/gradle' '/home/deepak/Documents/AndroidProjecttttt/Alram/gradle' '/home/deepak/Documents/AndroidProjecttttt/AndroidCameraSDcard/gradle' '/home/deepak/Documents/AndroidProjecttttt/AndroidChatApp/gradle' '/home/deepak/Documents/AndroidProjecttttt/AndroidProject/gradle' '/home/deepak/Documents/AndroidProjecttttt/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/gradle' '/home/deepak/Documents/AndroidProjecttttt/Android-Week-View-develop/gradle' '/home/deepak/Documents/AndroidProjecttttt/Asynclogin/gradle' '/home/deepak/Documents/AndroidProjecttttt/BorderBlack/gradle' '/home/deepak/Documents/AndroidProjecttttt/Button_Example/gradle' '/home/deepak/Documents/AndroidProjecttttt/Camera/gradle' '/home/deepak/Documents/AndroidProjecttttt/CaptureImageAndDisplyOnActivity/gradle' '/home/deepak/Documents/AndroidProjecttttt/ChatApp/gradle' '/home/deepak/Documents/AndroidProjecttttt/CheckBox/gradle' '/home/deepak/Documents/AndroidProjecttttt/City/gradle' '/home/deepak/Documents/AndroidProjecttttt/CRUD/gradle' '/home/deepak/Documents/AndroidProjecttttt/CRUD2/gradle' '/home/deepak/Documents/AndroidProjecttttt/Datee/gradle' '/home/deepak/Documents/AndroidProjecttttt/Date_Picker/gradle' '/home/deepak/Documents/AndroidProjecttttt/Date_Time/gradle' '/home/deepak/Documents/AndroidProjecttttt/DateTimePick/gradle' '/home/deepak/Documents/AndroidProjecttttt/Demo/gradle' '/home/deepak/Documents/AndroidProjecttttt/Demo1/gradle' '/home/deepak/Documents/AndroidProjecttttt/Democamera/gradle' '/home/deepak/Documents/AndroidProjecttttt/DigitalClock/gradle' '/home/deepak/Documents/AndroidProjecttttt/DiscreteScrollView-master/gradle' '/home/deepak/Documents/AndroidProjecttttt/Displayimageaftercapture/gradle' '/home/deepak/Documents/AndroidProjecttttt/Display_only_image/gradle' '/home/deepak/Documents/AndroidProjecttttt/DoctorInvoice/gradle' '/home/deepak/Documents/AndroidProjecttttt/Downloadandstore/gradle' '/home/deepak/Documents/AndroidProjecttttt/Downloadimages/gradle' '/home/deepak/Documents/AndroidProjecttttt/DynamicListView/gradle' '/home/deepak/Documents/AndroidProjecttttt/Explicit_Intent/gradle' '/home/deepak/Documents/AndroidProjecttttt/Factorial/gradle' '/home/deepak/Documents/AndroidProjecttttt/File_transfer/gradle' '/home/deepak/Documents/AndroidProjecttttt/FragmentExample1/gradle' '/home/deepak/Documents/AndroidProjecttttt/Fragments/gradle' '/home/deepak/Documents/AndroidProjecttttt/FullScreen/gradle' '/home/deepak/Documents/AndroidProjecttttt/GridView/gradle' '/home/deepak/Documents/AndroidProjecttttt/Hide_Title/gradle' '/home/deepak/Documents/AndroidProjecttttt/HideTitle1/gradle' '/home/deepak/Documents/AndroidProjecttttt/Horizontal/gradle' '/home/deepak/Documents/AndroidProjecttttt/Horizontal_scroll_view/gradle' '/home/deepak/Documents/AndroidProjecttttt/HttpLogin/gradle' '/home/deepak/Documents/AndroidProjecttttt/ImageManager/gradle' '/home/deepak/Documents/AndroidProjecttttt/Images/gradle' '/home/deepak/Documents/AndroidProjecttttt/Implicit_Intent/gradle' '/home/deepak/Documents/AndroidProjecttttt/InternalStorage/gradle' '/home/deepak/Documents/AndroidProjecttttt/Jackson/gradle' '/home/deepak/Documents/AndroidProjecttttt/Life_Cycle/gradle' '/home/deepak/Documents/AndroidProjecttttt/List_Adapter/gradle' '/home/deepak/Documents/AndroidProjecttttt/ListandSearch/gradle' '/home/deepak/Documents/AndroidProjecttttt/lll/gradle' '/home/deepak/Documents/AndroidProjecttttt/Login/gradle' '/home/deepak/Documents/AndroidProjecttttt/Loginandlogout/gradle' '/home/deepak/Documents/AndroidProjecttttt/LoginandLogout/gradle' '/home/deepak/Documents/AndroidProjecttttt/Loginlogout/gradle' '/home/deepak/Documents/AndroidProjecttttt/Medico/gradle' '/home/deepak/Documents/AndroidProjecttttt/MyApplication/gradle' '/home/deepak/Documents/AndroidProjecttttt/MyApplication2/gradle' '/home/deepak/Documents/AndroidProjecttttt/PHOOOTOOO/gradle' '/home/deepak/Documents/AndroidProjecttttt/PHOOTOOO1/gradle' '/home/deepak/Documents/AndroidProjecttttt/PHOOTOOO2/gradle' '/home/deepak/Documents/AndroidProjecttttt/Progress_Bar/gradle' '/home/deepak/Documents/AndroidProjecttttt/RatingBar_Star/gradle' '/home/deepak/Documents/AndroidProjecttttt/Seek_Bar/gradle' '/home/deepak/Documents/AndroidProjecttttt/Slidernavigation/gradle' '/home/deepak/Documents/AndroidProjecttttt/Spiner_Example/gradle' '/home/deepak/Documents/AndroidProjecttttt/StartActivityForResult/gradle' '/home/deepak/Documents/AndroidProjecttttt/Textview_Autocomplete/gradle' '/home/deepak/Documents/AndroidProjecttttt/Timepiker/gradle' '/home/deepak/Documents/AndroidProjecttttt/Toast_Example/gradle' '/home/deepak/Documents/AndroidProjecttttt/Toggle_Button/gradle' '/home/deepak/Documents/AndroidProjecttttt/Webview/gradle' '/home/deepak/Documents/AndroidProject/Unusable/gradle' '/home/deepak/Documents/AndroidProject/Upllllloadimmmage/gradle' '/home/deepak/Documents/AndroidProject/UploadImagefromserver/gradle' '/home/deepak/Documents/AndroidProject/Upload_imagess/gradle' '/home/deepak/Documents/AndroidProject/VideoConsultation/gradle' '/home/deepak/Documents/AndroidProject/Worddoc/gradle' '/home/deepak/Documents/android-retrofit-file-download-master/FileDownload/gradle' '/home/deepak/Documents/CRUD/TimeSlot/gradle' '/home/deepak/Documents/MedicoExperts_18_Dec_2017/ImageSliderWithTime/gradle' '/home/deepak/Documents/MedicoExperts_18_Dec_2017/MedicoExperts_Test/gradle' '/home/deepak/Documents/MedicoExperts_25_july_2017/MedicoExperts/gradle' '/home/deepak/Documents/NavigationViewStyling/NavigationViewStyling/gradle' '/home/deepak/Documents/opentok-android-sdk-samples-master/Archiving/gradle' '/home/deepak/Documents/opentok-android-sdk-samples-master/Basic-Video-Chat/gradle' '/home/deepak/Documents/opentok-android-sdk-samples-master/Custom-Audio-Driver/gradle' '/home/deepak/Documents/opentok-android-sdk-samples-master/Custom-Video-Driver/gradle' '/home/deepak/Documents/opentok-android-sdk-samples-master/FrameMetadata/gradle' '/home/deepak/Documents/opentok-android-sdk-samples-master/Live-Photo-Capture/gradle' '/home/deepak/Documents/opentok-android-sdk-samples-master/Multiparty-ConstraintLayout/gradle' '/home/deepak/Documents/opentok-android-sdk-samples-master/PictureInPicture/gradle' '/home/deepak/Documents/opentok-android-sdk-samples-master/Screen-Sharing/gradle' '/home/deepak/Documents/opentok-android-sdk-samples-master/Signaling/gradle' '/home/deepak/Documents/opentok-android-sdk-samples-master/Simple-Multiparty/gradle' '/home/deepak/Documents/pagination-recyclerview/pagination-recyclerview/gradle' '/home/deepak/Documents/PayPal-Android-SDK-master/SampleApp-Kotlin/gradle' '/home/deepak/Documents/PayPal-Android-SDK-master/SampleAppPaypal2/gradle' '/home/deepak/Documents/paypal-here-sdk-android-distribution-master/SampleApp/gradle' '/home/deepak/Documents/paypal-here-sdk-android-distribution-master/ZoomImage/gradle' '/home/deepak/Documents/viewpager_circle_indicator-master/SliderAnkit/gradle' '/home/deepak/Documents/viewpager_circle_indicator-master/Viewpager_circle_indicator/gradle' '/home/deepak/Downloads/Android Handover/CheckInternet/gradle' '/home/deepak/Downloads/Android Handover/YoutubeAPIV3-master/gradle' '/home/deepak/Downloads/android-studio1/plugins/gradle' '/home/deepak/Downloads/android-studio_2/plugins/gradle' '/home/deepak/Downloads/android-studio/plugins/gradle' '/home/deepak/Downloads/Badge/FirebaseRealtime/gradle' '/home/deepak/Downloads/Badge/PushNotification/gradle' '/home/deepak/Downloads/current11102018/AndroidCameraApplication/gradle' '/home/deepak/Downloads/current11102018/ImageText_Share_Demo1/gradle' '/home/deepak/Downloads/current11102018/ME/gradle' '/home/deepak/Downloads/current11102018/OneToOneTextChatSample/gradle' '/home/deepak/Downloads/current11102018/Paypal/gradle' '/home/deepak/Downloads/demo3/Android-Week-View-master/gradle' '/home/deepak/Downloads/demo3/Fetch-2.2/gradle' '/home/deepak/Downloads/demo3/ME/gradle' '/home/deepak/Downloads/dump1/ImageToServer/gradle' '/home/deepak/Downloads/dump1/PDFDownloadDemo/gradle' '/home/deepak/Downloads/dump1/PRDownloader-master/gradle' '/home/deepak/Downloads/dump1/tus-android-client-master/gradle' '/home/deepak/Downloads/dump1/WelcomeScreen-master/gradle' '/home/deepak/Downloads/WordPressInAndroid/WordPressInAndroid/gradle' '/home/deepak/Downloads/android-studio1/gradle/gradle-4.4' '/home/deepak/Downloads/android-studio/gradle/gradle-4.4' '/home/deepak/Downloads/android-studio_2/gradle/gradle-2.14.1' '/home/deepak/deepak/node_modules/cordova-android/framework/gradle' '/home/deepak/Documents/AndroidProject/opentok-android-sdk-samples-master/OpenTokSamples1/gradle' '/home/deepak/Documents/AndroidProject/OpenTokSamples1/2.Custom-Video-Driver/gradle' '/home/deepak/Documents/AndroidProject/quickstart-android-master/quickstart-android-master/gradle' '/home/deepak/Documents/AndroidProjecttttt/All multiparty/OpenTokSamples/gradle' '/home/deepak/Documents/AndroidProjecttttt/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/gradle' '/home/deepak/Documents/AndroidProjecttttt/CRUD/TimeSlot/gradle' '/home/deepak/Documents/AndroidProjecttttt/Firebase_Chat-master/Firebase_Chat-master/gradle' '/home/deepak/Documents/Deepak_Singh/E/Word_file/gradle' '/home/deepak/Documents/Deepak_Singh/f16/AlertDialogDemo/gradle' '/home/deepak/Downloads/Android Handover/Download Manager/Fetch/gradle' '/home/deepak/Downloads/Android Handover/Sugar BP app/glucosio-android-develop/gradle' '/home/deepak/Downloads/Android Handover/Swipe Menu/android-rv-swipe-delete-master/gradle' '/home/deepak/Downloads/Android Handover/Swipe Menu/RecyclerView_Swipe_delete/gradle' '/home/deepak/Downloads/Android Handover/Swipe Menu/SwipeRevealLayoutExample-master/gradle' '/home/deepak/Downloads/Android Handover/Updated Weightloss Application/GraphF/gradle' '/home/deepak/Downloads/current11102018/opentok-android-sdk-samples-master/Archiving/gradle' '/home/deepak/Downloads/current11102018/opentok-android-sdk-samples-master/Basic-Video-Chat/gradle' '/home/deepak/Downloads/current11102018/opentok-android-sdk-samples-master/Custom-Audio-Driver/gradle' '/home/deepak/Downloads/current11102018/opentok-android-sdk-samples-master/Custom-Video-Driver/gradle' '/home/deepak/Downloads/current11102018/opentok-android-sdk-samples-master/FrameMetadata/gradle' '/home/deepak/Downloads/current11102018/opentok-android-sdk-samples-master/Live-Photo-Capture/gradle' '/home/deepak/Downloads/current11102018/opentok-android-sdk-samples-master/Multiparty-ConstraintLayout/gradle' '/home/deepak/Downloads/current11102018/opentok-android-sdk-samples-master/PictureInPicture/gradle' '/home/deepak/Downloads/current11102018/opentok-android-sdk-samples-master/Screen-Sharing/gradle' '/home/deepak/Downloads/current11102018/opentok-android-sdk-samples-master/Signaling/gradle' '/home/deepak/Downloads/current11102018/opentok-android-sdk-samples-master/Simple-Multiparty/gradle' '/home/deepak/Downloads/current11102018/paypal-here-sdk-android-distribution-master/SampleApp/gradle' '/home/deepak/Downloads/demo3/opentok-android-sdk-samples-master (2)/Archiving/gradle' '/home/deepak/Downloads/demo3/opentok-android-sdk-samples-master (2)/Basic-Video-Chat/gradle' '/home/deepak/Downloads/demo3/opentok-android-sdk-samples-master (2)/Custom-Audio-Driver/gradle' '/home/deepak/Downloads/demo3/opentok-android-sdk-samples-master (2)/Custom-Video-Driver/gradle' '/home/deepak/Downloads/demo3/opentok-android-sdk-samples-master (2)/FrameMetadata/gradle' '/home/deepak/Downloads/demo3/opentok-android-sdk-samples-master (2)/Live-Photo-Capture/gradle' '/home/deepak/Downloads/demo3/opentok-android-sdk-samples-master (2)/Multiparty-ConstraintLayout/gradle' '/home/deepak/Downloads/demo3/opentok-android-sdk-samples-master (2)/PictureInPicture/gradle' '/home/deepak/Downloads/demo3/opentok-android-sdk-samples-master (2)/Screen-Sharing/gradle' '/home/deepak/Downloads/demo3/opentok-android-sdk-samples-master (2)/Signaling/gradle' '/home/deepak/Downloads/demo3/opentok-android-sdk-samples-master (2)/Simple-Multiparty/gradle' '/home/deepak/Downloads/demo3/PayPal-Android-SDK-master/SampleApp-Kotlin/gradle' '/home/deepak/Downloads/demo3/PayPal-Android-SDK-master/SampleAppPaypal/gradle' '/home/deepak/Downloads/dump1/ImageUploadOnServer-Android-Examples.com_/ImageUploadOnServer-Android-Examples.com/gradle' '/home/deepak/Downloads/dump1/opentok-android-sdk-samples-master/Archiving/gradle' '/home/deepak/Downloads/dump1/opentok-android-sdk-samples-master/Basic-Video-Chat/gradle' '/home/deepak/Downloads/dump1/opentok-android-sdk-samples-master/Custom-Audio-Driver/gradle' '/home/deepak/Downloads/dump1/opentok-android-sdk-samples-master/Custom-Video-Driver/gradle' '/home/deepak/Downloads/dump1/opentok-android-sdk-samples-master/FrameMetadata/gradle' '/home/deepak/Downloads/dump1/opentok-android-sdk-samples-master/Live-Photo-Capture/gradle' '/home/deepak/Downloads/dump1/opentok-android-sdk-samples-master/Multiparty-ConstraintLayout/gradle' '/home/deepak/Downloads/dump1/opentok-android-sdk-samples-master/PictureInPicture/gradle' '/home/deepak/Downloads/dump1/opentok-android-sdk-samples-master/Screen-Sharing/gradle' '/home/deepak/Downloads/dump1/opentok-android-sdk-samples-master/Signaling/gradle' '/home/deepak/Downloads/dump1/opentok-android-sdk-samples-master/Simple-Multiparty/gradle' '/home/deepak/Downloads/dump/garbage_suitecrm/DiscreteScrollView-master11/gradle' '/home/deepak/Downloads/WordPressInAndroid/__MACOSX/WordPressInAndroid/gradle' '/home/deepak/Androidlocalization/gradlew' '/home/deepak/Documents/gradlew' '/home/deepak/Multilanguage/gradlew' '/home/deepak/MyApplication/gradlew' '/home/deepak/Androidlocalization/gradlew.bat' '/home/deepak/Documents/gradlew.bat' '/home/deepak/Multilanguage/gradlew.bat' '/home/deepak/MyApplication/gradlew.bat' '/home/deepak/Androidlocalization/build.gradle' '/home/deepak/Documents/build.gradle' '/home/deepak/Multilanguage/build.gradle' '/home/deepak/MyApplication/build.gradle' '/home/deepak/Androidlocalization/settings.gradle' '/home/deepak/Documents/settings.gradle' '/home/deepak/Multilanguage/settings.gradle' '/home/deepak/MyApplication/settings.gradle' '/home/deepak/Documents/gradle.properties' '/home/deepak/Multilanguage/gradle.properties' '/home/deepak/MyApplication/gradle.properties' '/home/deepak/Documents/CrimeProject/gradlew' '/home/deepak/Documents/MyApplication4/gradlew' '/home/deepak/Documents/StyledMap/gradlew' '/home/deepak/Documents/CrimeProject/gradlew.bat' '/home/deepak/Documents/MyApplication4/gradlew.bat' '/home/deepak/Documents/CrimeProject/build.gradle' '/home/deepak/Documents/MyApplication4/build.gradle' '/home/deepak/Documents/StyledMap/build.gradle' '/home/deepak/Documents/StyledMap/gradlew.bat' '/home/deepak/Documents/CrimeProject/settings.gradle' '/home/deepak/Documents/CS275-Final-project-master/build.gradle' '/home/deepak/Documents/MyApplication4/settings.gradle' '/home/deepak/Downloads/demo3/gradle' '/home/deepak/AndroidStudioProjects/MyApplication/gradlew' '/home/deepak/AndroidStudioProjects/MyApplication2/gradlew' '/home/deepak/AndroidStudioProjects/Test/gradlew' '/home/deepak/Documents/aaa/gradlew' '/home/deepak/Documents/accelerator-textchat-android-master/gradlew' '/home/deepak/Documents/AndroidCameraApplication/gradlew' '/home/deepak/Documents/AndroidGeocodeLocation/gradlew' '/home/deepak/Documents/AndroidImageSlider2/gradlew' '/home/deepak/Documents/AndroidImageSlider3/gradlew' '/home/deepak/Documents/Android-Pagination-with-RecyclerView-0fe1c54189bee46bde3cee91bd6a2be60ea252f8/gradlew' '/home/deepak/Documents/android-paypal-integration-example-master/gradlew' '/home/deepak/Documents/Android-play-video-on-video-view-master/gradlew' '/home/deepak/Documents/AndroidProjecttttt/gradlew' '/home/deepak/Documents/android-retrofit-master/gradlew' '/home/deepak/Documents/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/gradlew' '/home/deepak/Documents/android-user-registration-master/gradlew' '/home/deepak/Documents/Android-Week-View-master/gradlew' '/home/deepak/Documents/Animated-Gif-master/gradlew' '/home/deepak/Documents/AsyncTasksExample/gradlew' '/home/deepak/Documents/AutomaticCurver/gradlew' '/home/deepak/Documents/Badge/gradlew' '/home/deepak/Documents/Basic-Video-Chat/gradlew' '/home/deepak/Documents/Blog/gradlew' '/home/deepak/Documents/BottomActivity/gradlew' '/home/deepak/Documents/Calender/gradlew' '/home/deepak/Documents/CircleImageView/gradlew' '/home/deepak/Documents/CircleImageView-master/gradlew' '/home/deepak/Documents/country-picker-android-master/gradlew' '/home/deepak/Documents/CrimeProject/gradle.properties' '/home/deepak/Documents/CRUD/gradlew' '/home/deepak/Documents/CS275-Final-project-master/gradlew' '/home/deepak/Documents/CustomGridView/gradlew' '/home/deepak/Documents/DataBinding/gradlew' '/home/deepak/Documents/DatePicker/gradlew' '/home/deepak/Documents/DownloadFetch2/gradlew' '/home/deepak/Documents/DownloadMan/gradlew' '/home/deepak/Documents/DownloadManager/gradlew' '/home/deepak/Documents/DownloadManagers/gradlew' '/home/deepak/Documents/DummyIgnore/gradlew' '/home/deepak/Documents/FacebookIntegration/gradlew' '/home/deepak/Documents/Fetch-2/gradlew' '/home/deepak/Documents/Fetch-2.2/gradlew' '/home/deepak/Documents/Fetch2copy/gradlew' '/home/deepak/Documents/FileSendToServer/gradlew' '/home/deepak/Documents/FireBase/gradlew' '/home/deepak/Documents/FirebaseRealtime/gradlew' '/home/deepak/Documents/GetAllLocation/gradlew' '/home/deepak/Documents/GetNumber/gradlew' '/home/deepak/Documents/GraphF/gradlew' '/home/deepak/Documents/GridTest/gradlew' '/home/deepak/Documents/GridViewOpenImage1/gradlew' '/home/deepak/Documents/GroomAuto/gradlew' '/home/deepak/Documents/GroomAuto_2/gradlew' '/home/deepak/Documents/Horizontal-Calendar-master/gradlew' '/home/deepak/Documents/ImageDisplayonActivity/gradlew' '/home/deepak/Documents/Image_Save2/gradlew' '/home/deepak/Documents/Image_save_dispplay/gradlew' '/home/deepak/Documents/ImageSliderDemonuts/gradlew' '/home/deepak/Documents/ImageText_Share_Demo1/gradlew' '/home/deepak/Documents/ImageText_Share_Demo2/gradlew' '/home/deepak/Documents/ImageText_Share_Demo3/gradlew' '/home/deepak/Documents/ImageToServer/gradlew' '/home/deepak/Documents/ImageUpload-AndroidJSon.com/gradlew' '/home/deepak/Documents/JavaMail1/gradlew' '/home/deepak/Documents/Listview_with_checkbox_demonuts/gradlew' '/home/deepak/Documents/LocalBroadcast/gradlew' '/home/deepak/Documents/login/gradlew' '/home/deepak/Documents/LoginAndLogout/gradlew' '/home/deepak/Documents/LoginLogout/gradlew' '/home/deepak/Documents/Mail1/gradlew' '/home/deepak/Documents/material-calendarview-master/gradlew' '/home/deepak/Documents/ME/gradlew' '/home/deepak/Documents/MedicoExpertsOld/gradlew' '/home/deepak/Documents/Memory/gradlew' '/home/deepak/Documents/Multiparty-ConstraintLayout/gradlew' '/home/deepak/Documents/MultipleHandler/gradlew' '/home/deepak/Documents/MVVM/gradlew' '/home/deepak/Documents/MyApplication/gradlew' '/home/deepak/Documents/MyApplication2/gradlew' '/home/deepak/Documents/MyApplication3/gradlew' '/home/deepak/Documents/MyApplication4/gradle.properties' '/home/deepak/Documents/MyDynamicCalendarExample-master/gradlew' '/home/deepak/Documents/myhistoria/gradlew' '/home/deepak/Documents/NavigationExam/gradlew' '/home/deepak/Documents/Nexmo/gradlew' '/home/deepak/Documents/nexmo-java-master/gradlew' '/home/deepak/Documents/NotficationBadge/gradlew' '/home/deepak/Documents/OneToOneTextChatSample/gradlew' '/home/deepak/Documents/OpentokChat/gradlew' '/home/deepak/Documents/OpenTokSamples/gradlew' '/home/deepak/Documents/Pagination/gradlew' '/home/deepak/Documents/Pagination2/gradlew' '/home/deepak/Documents/Paypal/gradlew' '/home/deepak/Documents/Paypal30102018/gradlew' '/home/deepak/Documents/PaypalDemo/gradlew' '/home/deepak/Documents/PayPalExample1/gradlew' '/home/deepak/Documents/PaypalFromWeb/gradlew' '/home/deepak/Documents/PDFDownloadDemo/gradlew' '/home/deepak/Documents/PhoneNo/gradlew' '/home/deepak/Documents/PRDownloader/gradlew' '/home/deepak/Documents/PRDownloaderCopy/gradlew' '/home/deepak/Documents/PRDownloader-master/gradlew' '/home/deepak/Documents/PushNotification/gradlew' '/home/deepak/Documents/QuizApp/gradlew' '/home/deepak/Documents/RecyclerView/gradlew' '/home/deepak/Documents/Refferal/gradlew' '/home/deepak/Documents/RetrofitExample1/gradlew' '/home/deepak/Documents/RetrofitExample2/gradlew' '/home/deepak/Documents/RetrofitPostRawJSON/gradlew' '/home/deepak/Documents/Runpause/gradlew' '/home/deepak/Documents/Rural_Empowerment/gradlew' '/home/deepak/Documents/sample/gradlew' '/home/deepak/Documents/sampleApp/gradlew' '/home/deepak/Documents/SampleApp/gradlew' '/home/deepak/Documents/SampleAppPaypal/gradlew' '/home/deepak/Documents/SampleAppPaypal2/gradlew' '/home/deepak/Documents/ServiceExample/gradlew' '/home/deepak/Documents/SharedPreferences1/gradlew' '/home/deepak/Documents/ShareImages/gradlew' '/home/deepak/Documents/Shiksha/gradlew' '/home/deepak/Documents/ShikshaNew/gradlew' '/home/deepak/Documents/ShowcaseView-master/gradlew' '/home/deepak/Documents/Signaling/gradlew' '/home/deepak/Documents/Simple-Multiparty/gradlew' '/home/deepak/Documents/SlidingImages_Demo/gradlew' '/home/deepak/Documents/Slot/gradlew' '/home/deepak/Documents/sms/gradlew' '/home/deepak/Documents/sms-retriever-api-sample-master/gradlew' '/home/deepak/Documents/SqlliteTest/gradlew' '/home/deepak/Documents/Test/gradlew' '/home/deepak/Documents/TestDownloderManager/gradlew' '/home/deepak/Documents/TestPhotoview/gradlew' '/home/deepak/Documents/TestVideoUI/gradlew' '/home/deepak/Documents/TextChatTest/gradlew' '/home/deepak/Documents/TextonImage/gradlew' '/home/deepak/Documents/Thumbnails/gradlew' '/home/deepak/Documents/Toggle_button/gradlew' '/home/deepak/Documents/tus-android-client-master/gradlew' '/home/deepak/Documents/VideoCommunication/gradlew' '/home/deepak/Documents/VideoListPlayer-master/gradlew' '/home/deepak/Documents/VideoStreamTutorial1/gradlew' '/home/deepak/Documents/VideoView/gradlew' '/home/deepak/Documents/VideoView1/gradlew' '/home/deepak/Documents/ViePagerInterPractice/gradlew' '/home/deepak/Documents/ViewPagerwithTabLayout-master/gradlew' '/home/deepak/Documents/WeightLoss/gradlew' '/home/deepak/Documents/Weight LossF/gradlew' '/home/deepak/Documents/WelcomeScreen-master/gradlew' '/home/deepak/Documents/WordPressInAndroid/gradlew' '/home/deepak/Documents/ZohoCrmChat/gradlew' '/home/deepak/Documents/zoomage-master/gradlew' '/home/deepak/Downloads/android-retrofit-master/gradlew' '/home/deepak/Downloads/android-retrofit-master (2)/gradlew' '/home/deepak/Downloads/country-picker-android-master/gradlew' '/home/deepak/Downloads/DM/gradlew' '/home/deepak/Downloads/GetNumber/gradlew' '/home/deepak/Downloads/Slot/gradlew' '/home/deepak/Downloads/sms-retriever-api-sample-master/gradlew' '/home/deepak/Documents/StyledMap/settings.gradle' '/home/deepak/Documents/StyledMap/gradle.properties' '/home/deepak/AndroidStudioProjects/MyApplication/gradlew.bat' '/home/deepak/AndroidStudioProjects/MyApplication2/gradlew.bat' '/home/deepak/AndroidStudioProjects/Test/gradlew.bat' '/home/deepak/Documents/aaa/build.gradle' '/home/deepak/Documents/aaa/gradlew.bat' '/home/deepak/Documents/accelerator-textchat-android-master/gradlew.bat' '/home/deepak/Documents/AndroidCameraApplication/gradlew.bat' '/home/deepak/Documents/AndroidGeocodeLocation/gradlew.bat' '/home/deepak/Documents/AndroidImageSlider2/gradlew.bat' '/home/deepak/Documents/AndroidImageSlider3/gradlew.bat' '/home/deepak/Documents/Android-Pagination-with-RecyclerView-0fe1c54189bee46bde3cee91bd6a2be60ea252f8/gradlew.bat' '/home/deepak/Documents/android-paypal-integration-example-master/gradlew.bat' '/home/deepak/Documents/Android-play-video-on-video-view-master/gradlew.bat' '/home/deepak/Documents/AndroidProjecttttt/gradlew.bat' '/home/deepak/Documents/android-retrofit-master/gradlew.bat' '/home/deepak/Documents/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/gradlew.bat' '/home/deepak/Documents/android-user-registration-master/gradlew.bat' '/home/deepak/Documents/Android-Week-View-master/gradlew.bat' '/home/deepak/Documents/Animated-Gif-master/gradlew.bat' '/home/deepak/Documents/AsyncTasksExample/gradlew.bat' '/home/deepak/Documents/AutomaticCurver/gradlew.bat' '/home/deepak/Documents/Badge/gradlew.bat' '/home/deepak/Documents/Basic-Video-Chat/gradlew.bat' '/home/deepak/Documents/Blog/gradlew.bat' '/home/deepak/Documents/BottomActivity/gradlew.bat' '/home/deepak/Documents/Calender/gradlew.bat' '/home/deepak/Documents/CircleImageView/gradlew.bat' '/home/deepak/Documents/CircleImageView-master/gradlew.bat' '/home/deepak/Documents/country-picker-android-master/gradlew.bat' '/home/deepak/Documents/CRUD/gradlew.bat' '/home/deepak/Documents/CS275-Final-project-master/gradlew.bat' '/home/deepak/Documents/CustomGridView/gradlew.bat' '/home/deepak/Documents/DataBinding/gradlew.bat' '/home/deepak/Documents/DatePicker/gradlew.bat' '/home/deepak/Documents/DownloadFetch2/gradlew.bat' '/home/deepak/Documents/DownloadMan/gradlew.bat' '/home/deepak/Documents/DownloadManager/gradlew.bat' '/home/deepak/Documents/DownloadManagers/gradlew.bat' '/home/deepak/Documents/DummyIgnore/gradlew.bat' '/home/deepak/Documents/FacebookIntegration/gradlew.bat' '/home/deepak/Documents/Fetch-2/gradlew.bat' '/home/deepak/Documents/Fetch-2.2/gradlew.bat' '/home/deepak/Documents/Fetch2copy/gradlew.bat' '/home/deepak/Documents/FileSendToServer/gradlew.bat' '/home/deepak/Documents/FireBase/gradlew.bat' '/home/deepak/Documents/FirebaseRealtime/gradlew.bat' '/home/deepak/Documents/GetAllLocation/gradlew.bat' '/home/deepak/Documents/GetNumber/gradlew.bat' '/home/deepak/Documents/GraphF/gradlew.bat' '/home/deepak/Documents/GridTest/gradlew.bat' '/home/deepak/Documents/GridViewOpenImage1/gradlew.bat' '/home/deepak/Documents/GroomAuto/gradlew.bat' '/home/deepak/Documents/GroomAuto_2/gradlew.bat' '/home/deepak/Documents/Horizontal-Calendar-master/gradlew.bat' '/home/deepak/Documents/ImageDisplayonActivity/gradlew.bat' '/home/deepak/Documents/Image_Save2/gradlew.bat' '/home/deepak/Documents/Image_save_dispplay/gradlew.bat' '/home/deepak/Documents/ImageSliderDemonuts/gradlew.bat' '/home/deepak/Documents/ImageText_Share_Demo1/gradlew.bat' '/home/deepak/Documents/ImageText_Share_Demo2/gradlew.bat' '/home/deepak/Documents/ImageText_Share_Demo3/gradlew.bat' '/home/deepak/Documents/ImageToServer/gradlew.bat' '/home/deepak/Documents/ImageUpload-AndroidJSon.com/gradlew.bat' '/home/deepak/Documents/JavaMail1/gradlew.bat' '/home/deepak/Documents/Listview_with_checkbox_demonuts/gradlew.bat' '/home/deepak/Documents/LocalBroadcast/gradlew.bat' '/home/deepak/Documents/login/gradlew.bat' '/home/deepak/Documents/LoginAndLogout/gradlew.bat' '/home/deepak/Documents/LoginLogout/gradlew.bat' '/home/deepak/Documents/Mail1/gradlew.bat' '/home/deepak/Documents/material-calendarview-master/gradlew.bat' '/home/deepak/Documents/ME/gradlew.bat' '/home/deepak/Documents/MedicoExpertsOld/gradlew.bat' '/home/deepak/Documents/Memory/gradlew.bat' '/home/deepak/Documents/Multiparty-ConstraintLayout/gradlew.bat' '/home/deepak/Documents/MultipleHandler/gradlew.bat' '/home/deepak/Documents/MVVM/gradlew.bat' '/home/deepak/Documents/MyApplication/gradlew.bat' '/home/deepak/Documents/MyApplication2/gradlew.bat' '/home/deepak/Documents/MyApplication3/gradlew.bat' '/home/deepak/Documents/MyDynamicCalendarExample-master/gradlew.bat' '/home/deepak/Documents/myhistoria/gradlew.bat' '/home/deepak/Documents/NavigationExam/gradlew.bat' '/home/deepak/Documents/Nexmo/gradlew.bat' '/home/deepak/Documents/nexmo-java-master/gradlew.bat' '/home/deepak/Documents/Notfi
+ 1900  cd Downloads/android-studio/bin/
+ 1901  ./studio.sh 
+ 1902  cd Downloads/android-studio/bin/
+ 1903  ./studio.sh 
+ 1904  cd Downloads/android-studio/bin/
+ 1905  ./studio.sh 
+ 1906  cd Downloads/android-studio/bin/
+ 1907  ./studio.sh 
+ 1908  cd Downloads/android-studio
+ 1909  cd bin/
+ 1910  ./studio.sh 
+ 1911  cd Downloads/android-studio/bin/
+ 1912  ./studio.sh 
+ 1913  cd Downloads/android-studio/bin/
+ 1914  ./studio.sh 
+ 1915  cd Downloads/android-studio/bin/
+ 1916  ./studio.sh 
+ 1917  cd Desktop/android-studio/bin/
+ 1918  ./studio.sh 
+ 1919  cd Desktop/android-studio/bin/
+ 1920  ./studio.sh 
+ 1921  cd  Desktop/android-studio/bin/
+ 1922  cd Downloads/android-studio/bin/
+ 1923  ./studio.sh 
+ 1924  cd
+ 1925  cd Downloads/android-studio/bin/
+ 1926  ./studio.sh 
+ 1927  cd
+ 1928  cd Desktop/android-studio/bin/
+ 1929  ./studio.sh 
+ 1930  cd Desktop/android-studio/bin/
+ 1931  ./studio.sh 
+ 1932  cd Desktop/android-studio/bin/
+ 1933  ./studio.sh
+ 1934  cd Desktop/android-studio/bin/
+ 1935  ./studio.sh 
+ 1936  cd Desktop/eclipse/
+ 1937  ./eclipse 
+ 1938  cd Desktop/eclipse/
+ 1939  ./eclipse 
+ 1940  cd Desktop/eclipse/
+ 1941  ./eclipse 
+ 1942  cd Desktop/eclipse/
+ 1943  ./eclipse 
+ 1944  cd Desktop/eclipse/
+ 1945  ./eclipse 
+ 1946  cd Desktop/android-studio/bin/
+ 1947  ./studio.sh 
+ 1948  cd Desktop/eclipse/
+ 1949  ./eclipse 
+ 1950  cd Desktop/android-studio/bin/
+ 1951  ./studio.sh 
+ 1952  cd Desktop/android-studio/bin/
+ 1953  ./studio.sh 
+ 1954  cd Desktop/android-studio/bin/
+ 1955  ./studio.sh 
+ 1956  cd Desktop/android-studio/bin/
+ 1957  ./studio.sh 
+ 1958  cd Desktop/android-studio/bin/
+ 1959  ./studio.sh 
+ 1960  cd Desktop/android-studio/bin/
+ 1961  ./studio.sh 
+ 1962  cd Desktop/eclipse/
+ 1963  ./eclipse 
+ 1964  cd Desktop/android-studio/bin/
+ 1965  ./studio.sh 
+ 1966  cd Desktop/eclipse/
+ 1967  ./eclipse 
+ 1968  cd Desktop/eclipse/
+ 1969  ./eclipse 
+ 1970  cd Desktop/eclipse/
+ 1971  ./eclipse 
+ 1972  cd Desktop/android-studio/bin/
+ 1973  ./studio.sh 
+ 1974  cd Desktop/android-studio/bin/
+ 1975  ./studio.sh 
+ 1976  cd Desktop/eclipse/
+ 1977  ./eclipse 
+ 1978  cd Desktop/eclipse/
+ 1979  ./eclipse 
+ 1980  cd Desktop/eclipse/
+ 1981  ./eclipse 
+ 1982  cd Desktop/eclipse/
+ 1983  ./eclipse 
+ 1984  cd Desktop/android-studio/bin/
+ 1985  ./studio.sh 
+ 1986  cd Desktop/eclipse/
+ 1987  ./eclipse 
+ 1988  cd Desktop/android-studio/
+ 1989  ./bin/
+ 1990  cd bin/
+ 1991  ./studio.sh 
+ 1992  cd
+ 1993  cd Downloads/
+ 1994  cd android-studio2/
+ 1995  cd android-studio_2/bin/
+ 1996  ./studio
+ 1997  cd ..
+ 1998  git https://github.com/deepak-singh-108/android-recycler-view.git
+ 1999  git checkout https://github.com/deepak-singh-108/android-recycler-view.git
+ 2000  git init 
+ 2001  git checkout https://github.com/deepak-singh-108/android-recycler-view.git
+ 2002  git checkout android-recycler-view.git
+ 2003  git checkout android-recycler-view
+ 2004  git remote add origin https://github.com/deepak-singh-108/android-recycler-view.git
+ 2005  git checkout android-recycler-view
+ 2006  git checkout https://github.com/deepak-singh-108/android-recycler-view.git
+ 2007  git pull 
+ 2008  pwd
+ 2009  ls
+ 2010  mkdir project
+ 2011  cd project/
+ 2012  git pull
+ 2013  git remote add origin https://github.com/deepak-singh-108/android-recycler-view.git
+ 2014  git pull remote android-recycler-view
+ 2015  git init
+ 2016  git remote add origin https://github.com/deepak-singh-108/android-recycler-view.git
+ 2017  git pull remote android-recycler-view
+ 2018  git pull android-recycler-view
+ 2019  git pull 
+ 2020  ls
+ 2021  touch hello.txt
+ 2022  ls
+ 2023  git add .
+ 2024  git push 
+ 2025  git commit 
+ 2026  git commit -m "hi"
+ 2027  git config --global --edit
+ 2028  git push -u origin master
+ 2029  git pull
+ 2030  git pull master
+ 2031  git pull android-recycler-view
+ 2032  git status
+ 2033  git branch
+ 2034  git status
+ 2035  ll
+ 2036  git add hello.txt 
+ 2037  git add .
+ 2038  git commit -m 'initial commit'
+ 2039  git status
+ 2040  git push
+ 2041  git push --set-upstream origin master
+ 2042  git pull
+ 2043  git pull master
+ 2044  ll
+ 2045  cd ../
+ 2046  sudo rm -rf project
+ 2047  git clone https://github.com/deepak-singh-108/android-recycler-view.git
+ 2048  ll
+ 2049  cd android-recycler-view/
+ 2050  ll
+ 2051  git status
+ 2052  touch hello.txt
+ 2053  vi hello.txt 
+ 2054  git add .
+ 2055  git commit -m 'test commit'
+ 2056  git push
+ 2057  history >> notes
